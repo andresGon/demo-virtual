@@ -1631,4 +1631,45 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
                 font-family: @pacifico;
                 text-shadow: @textS;
         }
+        .wrapsScopeSel{
+                p{
+                        padding-left: 25px;
+                        font-family: @cabin;
+                        font-size: 25px;
+                        float: left;
+                        width: 5%;
+                }
+                select{
+                        float: left;
+                        width: 90%;
+                        height: 33px;
+                        background: @gray1;
+                        border: none;
+                        border-radius: 0;
+                        margin: 25px 0 0 18px;;
+                }
+        }
+}
+.tableScope{
+        float: left;
+        table{
+                width: 100%;
+                td{
+                        padding: 10px 0;
+                        text-align: center;
+                        font-family: @cabin;
+
+                        &:first-child{
+                                background: @green1;
+                                color: #fff;
+                                border-bottom: 1px solid #fff;
+                                font-size: 18px;
+                        }
+                        &:nth-child(2){
+                                font-size: 14px;
+                                border-top: 1px solid @green1;
+                                border-right: 1px solid @green1;
+                        }
+                }
+        }
 }
