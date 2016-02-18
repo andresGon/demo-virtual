@@ -1,0 +1,26 @@
+{
+  "name": "demo-digital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/brayansti/Web-Books.git"
+  },
+  "author": "Andres Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/brayansti/Web-Books/issues"
+  },
+  "homepage": "https://gitlab.com/brayansti/Web-Books#README",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-less": "^3.0.5",
+    "gulp-server": "^0.1.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
