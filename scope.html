@@ -18,6 +18,11 @@
         <link rel="stylesheet" href="css/animated.css">
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+        <script type="text/javascript" src="https://code.angularjs.org/1.5.0/angular-resource.min.js"></script>
+        <script type="text/javascript" src="js/angularScope.js">
+
+        </script>
     </head>
     <body>
 
@@ -89,16 +94,6 @@
                             </a>
                         </div>
 
-                        <!-- ================= botones scroll ===================== -->
-                           <!-- <div class="wrapBtnSc animated fadeInUpBig">
-                                <div class="btnUp"></div>
-                                <div class="shadowUp"></div>
-                                <div class="btnDown"></div>
-                                <div class="shadowDown"></div>
-                            </div>
-                        -->
-
-
                     </div>
                     <div class="shadowMenu"></div>
 
@@ -111,8 +106,8 @@
         <!-- =========================================================================== fin menu sup ===============================================-->
 
 
-        <section>
-                <div class="wrapScope">
+        <section ng-app="appScope">
+                <div class="wrapScope" ng-controller="appController">
                         <div class="levelLat">
                                 <p>Level</p>
                                 <a href="">a <span>1</span></a>
@@ -136,42 +131,17 @@
                                                 <option value="">5 My Community</option>
                                         </select>
                                 </div>
+                                
                                 <div class="tableScope TableA1">
-                                        <table width="100%">
-                                                  <tr>
-                                                    <td width="20%"> Vocabulary</td>
-                                                    <td width="80%"> Numbers 1-20 The alphabet Name ID Number Telephone number e-mail.</td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Structures</td>
-                                                    <td>Greetings, Basic small talk, Leave-taking, Formal / informal, language Please / Thank you<br>What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? <br>What’s your e-mail?</td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Expressions / <br> Functions</td>
-                                                    <td>Greetings, Basic small talk, Leave-taking, Formal / informal, language Please / Thank you<br>What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? <br>What’s your e-mail?</td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Pronunciation</td>
-                                                    <td>Greetings, Basic small talk, Leave-taking, Formal / informal, language Please / Thank you<br>What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? <br>What’s your e-mail?</td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Listening</td>
-                                                    <td>Greetings, Basic small talk, Leave-taking, Formal / informal, language Please / Thank you<br>What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? <br>What’s your e-mail?</td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Speaking</td>
-                                                    <td>Greetings, Basic small talk, Leave-taking, Formal / informal, language Please / Thank you<br>What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? <br>What’s your e-mail?</td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Reading</td>
-                                                    <td>Greetings, Basic small talk, Leave-taking, Formal / informal, language Please / Thank you<br>What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? <br>What’s your e-mail?</td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Writing</td>
-                                                    <td>Greetings, Basic small talk, Leave-taking, Formal / informal, language Please / Thank you<br>What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? <br>What’s your e-mail?</td>
+                                        <table width="100%"  >
+                                                  <tr ng-repeat="data in datos"  >
+                                                            <td width="20%">{{data.titulo}}</td>
+                                                            <td width="80%"> {{data.contenido}}</td>
                                                   </tr>
                                         </table>
                                 </div>
+
+
                         </div>
                 </div>
         </section>
