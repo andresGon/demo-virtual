@@ -1,0 +1,8 @@
+.wrapScope {
+  width: 1000px;
+  margin: 120px auto 0;
+  height: auto;
+}
+.wrapScope a {
+  display: block;
+}
