@@ -1,0 +1,410 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background:url(../img/1.bg_body.jpg);
+	margin:0;
+	padding:0;
+}
+
+#contenido
+{
+	height:460px;
+	width:770px;
+	margin-left:15px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #D6D6D6;
+}
+#contenido_swf
+{
+	height:460px;
+	width:800px;
+}
+#maqueta 
+{ background:url(../img/1.bg_maqueta.jpg) repeat-y;
+	margin:0 auto 0 auto;
+	width:800px;
+	height:600px; 
+}
+#header
+{ background: url(../img/2.bg_heder.jpg) repeat-y;
+	height:95px;
+	width:800px;
+}
+#linea_superios
+{
+	background-image:url(../img/4.Linea_superior.jpg);
+	height:3px;
+	width:800px;
+}
+#linea_Inferior
+{
+	background-image:url(../img/4.Linea_inferior.jpg);
+	height:3px;
+	width:800px;
+}
+#Foter
+{
+	margin:0px;
+	padding:0;
+	height:36px;
+	width:800px;
+	
+}
+#sombra_inferior
+{
+	height:15px;
+	width:800px;
+}
+.cc
+{
+	color:#02B0E8;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:12px;
+}
+.menu
+{ background-color:#A5BA35;
+	border:none;	
+	width:88px;
+	height:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	color:#FFF;
+}
+.menuA
+{ background-color:#A5BA35;
+	border:none;	
+	width:103px;
+	height:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	color:#FFF;
+}
+.div_numV
+{ 
+	padding:0;
+	margin:0px;
+	height:2px;
+}
+
+.texto_1
+{
+	color:#004354;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	}
+.texto_1_Grande
+{
+	color:#004354;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:23px;
+	}
+	
+.texto_1_mediano
+{
+	color:#004354;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:19px;
+	}	
+	
+.texto_1_Pequeno
+{
+	color:#004354;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	}
+
+
+.texto_2
+{
+	color:#00B2DA;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	}
+	
+.texto_2_Grande
+{
+	color:#00B2DA;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:23px;
+	}	
+	
+.texto_2_mediano
+{
+	color:#00B2DA;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:19px;
+	}	
+		
+.texto_2_pequeno
+{
+	color:#00B2DA;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+}
+.texto_3
+{
+	color:#95B003 ;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+}
+
+.texto_3_mediano
+{
+	color:#95B003;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:19px;
+	}	
+	
+.texto_4
+{
+	color: #FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+}
+.texco_caja
+{ 
+	border:none; 	
+	background:none;
+	width:285px;
+	height:120px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#036;
+}
+.texco_caja2
+{ 
+	border:none; 	
+	background:none;
+	width:203px;
+	padding-left:3px;
+	margin-left:2px;
+	margin-top:5px;
+	height:160px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#036;
+}
+.texco_caja3
+{ 
+	border:none; 	
+	background:none;
+	width:195px;
+	padding-left:3px;
+	margin-left:5px;
+	margin-top:5px;
+	height:150px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#036;
+}
+.texco_caja4
+{ 
+	border:none; 	
+	background:none;
+	width:430px;
+	padding-left:3px;
+	margin-left:5px;
+	margin-top:5px;
+	height:120px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#036;
+}
+.texco_caja5
+{ 
+	border:none; 	
+	background:none;
+	width:270px;
+	padding-left:3px;
+	margin-left:5px;
+	margin-top:5px;
+	height:140px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#036;
+}
+.raya_bg_cien
+{
+	background: url(../img/bg_raya_texto.png) repeat-x;
+	border:none;
+	height:19px;
+	width:110px;
+	text-align:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#004354;
+}
+.raya_bg_cienPorcien
+{
+	background: url(../img/bg_raya_texto.png) repeat-x;
+	border:none;
+	height:19px;
+	width:100%;
+	text-align:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#004354;
+}
+.raya_bg_cienPorcien2
+{
+	background: url(../img/bg_raya_texto2.png) repeat-x;
+	border:none;
+	height:19px;
+	width:100%;
+	text-align:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#02B0E8;
+}
+
+.raya_bg_cien2
+{
+	background: url(../img/bg_raya_texto.png) repeat-x;
+	border:none;
+	height:19px;
+	width:110px;
+	text-align:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#00B2DA;
+}
+
+.raya_bg_cien2_cien
+{
+	background: url(../img/bg_raya_texto.png) repeat-x;
+	border:none;
+	height:19px;
+	width:100%;
+	text-align:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#00B2DA;
+}
+
+.raya_bg_cien2verde
+{
+	background: url(../img/bg_raya_textoverde.png) repeat-x;
+	border:none;
+	height:19px;
+	width:110px;
+	text-align:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#95B003;
+}
+.raya_bg_cien2verde_cien
+{
+	background: url(../img/bg_raya_textoverde.png) repeat-x;
+	border:none;
+	height:19px;
+	width:100%;
+	text-align:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#95B003;
+}
+.bg_selec
+{ background:none ;
+border-color: #666;
+width:140px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#004354;
+border:none;
+background-color:#F6F6EC;
+	}
+	
+.bg_selec_mediano
+{ background:none ;
+border-color: #666;
+width:205px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#004354;
+border:none;
+background-color:#F6F6EC;
+	}	
+	
+.bg_selec_peque
+{ background:none ;
+border-color: #666;
+width:100px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#004354;
+border:none;
+background-color:#F6F6EC;
+}
+
+.bg_selec_muygrande
+{ background:none ;
+border-color: #666;
+width:300px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#004354;
+border:none;
+background-color:#F6F6EC;
+}	
+
+.bg_selec_peque_Verde
+{ background:none ;
+border-color: #666;
+width:100px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#A5BA35;
+border:none;
+background-color:#F6F6EC;
+}	
+
+.bg_selec_muygrande_Verde
+{ background:none ;
+border-color: #666;
+width:300px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#A5BA35;
+border:none;
+background-color:#F6F6EC;
+}	
+
+.bg_selec_muygrande_Verde2
+{ background:none ;
+border-color: #666;
+height:224px;;
+width:534px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#A5BA35;
+border:none;
+background-color:#F6F6EC;
+}
+
+.bg_selec_mediano_Verde
+{ background:none ;
+border-color: #666;
+width:170px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#A5BA35;
+border:none;
+background-color:#F6F6EC;
+}	
+	
+.bg_selec_grande
+{ background:none ;
+border-color: #666;
+width:250px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px;	
+color:#004354;
+border:none;
+background-color:#F6F6EC;
+	}	
+.bg_color1
+{
+	background-color:#C1C0A7
+}	

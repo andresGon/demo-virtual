@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Level One - Unit 1</title>
+<link href="../css/css.css" rel="stylesheet" type="text/css" />
+<script src="../js/jquery.js" type="text/javascript"></script>
+<script src="../js/funciones.js" type="text/javascript"></script>
+<script src="../js/jRecorder.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="../js/jquery.form.js"></script>
+
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body onload="MM_preloadImages('../img/5.btn_next_2.jpg','../img/5.btn_prev_2.jpg','../img/7.btn_game_2.png','../img/7.btn_voca_2.png','../img/13.sonido_1.png','../img/11.agregar_2.png')">
+<script>
+   $.jRecorder(     
+     { 
+        host : '../Scripts/acceptfile.php?filename=L2_Quiz_2b.wav' ,
+    
+        callback_started_recording:     function(){callback_started(); },
+        callback_stopped_recording:     function(){callback_stopped(); },
+        callback_activityLevel:          function(level){callback_activityLevel(level); },
+        callback_activityTime:     function(time){callback_activityTime(time); },
+      
+        callback_finished_sending:     function(time){ callback_finished_sending() },
+        swf_path : '../swf/jRecorder.swf',
+     }   
+   );
+</script>
+
+<div id="maqueta">
+   		<!-- Header -->
+    	<div id="header"> 
+        </div><!-- Fin Header -->
+       
+        <!-- linea -->
+        <div id="linea_superios">
+        </div><!-- Fin linea -->
+        
+        <!-- Contenido -->
+  <div id="contenido">
+    <table  align="center" width="766" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+    <td height="143" colspan="2" align="left" valign="top"><img src="../img/titulos/L2/img_L2_quiz_2.png" width="491" height="164" /></td>
+    
+  </tr>
+      <tr>
+        <td width="146" height="24" align="left" valign="top">&nbsp;</td>
+        <td width="620" align="left" valign="top"><img src="../img/img_L2_quizProfile.png" width="137" height="24" /></td>
+      </tr>
+      <tr>
+		<form id="imageform" method="post" enctype="multipart/form-data" action='ajaximage.php'>
+        <td height="269" colspan="2" align="right" valign="top"><table align="center" width="465" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="247" height="217"><div id='preview'><img src="../img/img_L2_quiz3.png" width="247" height="217" /></div></td>
+            <td width="218" align="left" background="../img/bg_Cuadro11.png">
+				<textarea name="txtQuizb" cols="32" rows="5" class="texco_caja2" id="txtQuizb"></textarea>
+			</td>
+          </tr>
+        </table>
+        <table align="center" width="465" border="0" cellspacing="0">
+    <tr>
+      <td width="247" height="53" align="center" valign="middle">&nbsp;&nbsp;
+			<input type="file" name="photoimg" id="photoimg" size="20" />
+	  </td>
+      <td width="21" align="center" valign="bottom">&nbsp;</td>
+      <td width="51" align="center" valign="bottom"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','../img/13.sonido_1.png',1)"><img src="../img/13.sonido_2.png" name="Image13" width="51" height="51" border="0" id="record" /></a></td>
+      <td width="51" align="center" valign="bottom"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','../img/14.play_1.png',1)"><img src="../img/14.play_2.png" name="Image15" width="51" height="51" border="0" id="stop" /></a></td>
+      <td width="85" align="left" valign="bottom">&nbsp;</td>
+      </tr>
+  </table>
+        </td></form>
+      </tr>
+    </table>
+    
+</div><!-- Fin Contenido -->
+        
+         <!-- linea -->
+        <div id="linea_Inferior">
+        </div><!-- Fin linea Inferior -->
+        
+         <!-- Foter -->
+        <div id="Foter">
+       	  <table align="center" width="750" border="0" cellspacing="0">
+  <tr>
+    <td width="437" height="36" valign="middle" class="cc">Virtual English Online Program - Level One 2012, Books &amp; Books</td>
+    <td width="143" align="right" valign="middle"><a href="L2_Quiz.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','../img/5.btn_prev_2.jpg',1)"><img src="../img/5.btn_prev_1.jpg" name="Image3" width="74" height="29" border="0" id="Image3" /></a></td>
+    <td width="3"><img src="../img/5.Linea_divicion.jpg" width="4" height="32" /></td>
+    <td width="154"><a href="L3_goals.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','../img/5.btn_next_2.jpg',1)"><img src="../img/5.btn_next_1.jpg" name="Image2" width="74" height="29" border="0" id="Image2" /></a></td>
+  </tr>
+</table>
+
+        </div><!-- Fin Foter -->
+ <!-- sombra -->
+ <div id="sombra_inferior">
+  <table align="center" width="150" border="0" cellspacing="0">
+  <tr>
+    <td height="21"><img src="../img/6.sombra.png" width="801" height="19" /></td>
+  </tr>
+</table>
+
+</div> <!-- Fin Sombra -->      
+</div>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="-1,-10,118,66" href="index.html" />
+</map>    
+
+</body>
+</html>
+
+<script>
+	$(window).load(function() {
+		cargarCabeza(2,39);
+	});
+</script>
+
+<script type="text/javascript" >
+ $(document).ready(function() { 
+            $('#photoimg').live('change', function(){ 
+			           $("#preview").html('');
+			    $("#preview").html('<img src="../loader.gif" alt="Uploading...."/>');
+				$("#imageform").ajaxForm({
+					target: '#preview'
+				}).submit();
+			});
+        }); 
+</script>
+
+<script type="text/javascript">
+
+  $('#record').click(function(){
+	  $.jRecorder.record(30);
+  })
+  
+  $('#stop').click(function(){
+	 $.jRecorder.stop();
+  })
+  
+   $('#send').click(function(){
+		$.post("../Scripts/acceptfile.php",{ txtQuiz:$("#txtQuizb").val(), photoimg:$("#photoimg").val()},function(dataF){
+			alert("Thank you. Your work has been sent");
+			$.jRecorder.sendData();
+			$("form:first").submit();
+		})
+		//$.jRecorder.sendData();
+  })
+  
+  function callback_finished()
+  {
+	  $('#status').html('Recording is finished');
+  }
+  
+  function callback_started()
+  {
+	  $('#status').html('Recording is started');
+  }
+  
+  function callback_error(code)
+  {
+	  $('#status').html('Error, code:' + code);
+  }
+  
+  function callback_stopped()
+  {
+	  $('#status').html('Stop request is accepted');
+  }
+
+  function callback_finished_recording()
+  {
+	$('#status').html('Recording event is finished');
+  }
+  
+  function callback_finished_sending()
+  {
+	  $('#status').html('File has been sent to server mentioned as host parameter'); 
+  }
+  
+  function callback_activityLevel(level)
+  {
+	$('#level').html(level);
+	if(level == -1)
+	{
+	  $('#levelbar').css("width",  "2px");
+	}
+	else
+	{
+	  $('#levelbar').css("width", (level * 2)+ "px");
+	}
+  }
+  
+  function callback_activityTime(time)
+  {
+   //$('.flrecorder').css("width", "1px"); 
+   //$('.flrecorder').css("height", "1px"); 
+	$('#time').html(time);
+  }          
+</script>

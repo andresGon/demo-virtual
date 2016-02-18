@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Level 3</title>
+<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href="../css/css.css" rel="stylesheet" type="text/css">
+<script src="../js/jquery.js" type="text/javascript"></script>
+<script src="../js/coleccion_funciones.js" type="text/javascript"></script>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('../img/2.btn_audio_5_2.png')">
+<div id="contenedor">
+   	 <header>
+        <div id="logo">
+            <p class="txt_logo_l">level</p> <p class="txt_logo_b">three</p>         
+               <div id="linea_div"></div>
+            <p class="txt_unit_lesson">UNIT 3 | LESSON 1</p>
+        </div>
+        <nav></nav>
+    </header>
+
+    <div id="contenido">	
+        <div id="una_linea">
+            <samp class="txt-amarillo_1">LESSON 2 ></samp> <span class="txt-rojo_1">EXERCISE 13  ></span> <span class="txt-gris_1">GRAMMAR: USED TO </span></div>
+
+	<div id="contendor">
+    <div id="sub_titulo_7">READ THE FOLLOWING SENTENCES AND REWRITE THEM WITH THE CORRECT FORM OF “USED TO” SO THAT THE MEANING STAYS THE SAME.</div>
+    	<div id="sec_botonera_izq_6">
+            <div id="btn_letra">a</div>
+            <div id="btn_letra">b</div>
+            <div id="btn_letra">c</div>
+            <div id="btn_letra">d</div>
+            <div id="btn_letra">e</div>
+            <div id="btn_letra">f</div>
+            <div id="btn_letra">g</div>
+            <div id="btn_letra">h</div>
+		</div> 	
+            <div id="sec_texto2">
+       			<div id="sec_texto3">
+               	  <div id="renglon_22">Did you go to school in this neighborhood?</div> 
+                  <div id="renglon_23">  
+                    <div id="caja_gris_respuesta_drag_12"><input class="caja_gris_respuesta_drop_4" type="text"></div>
+                  </div>  
+                    
+                 
+                </div>
+            <div id="sec_btn_next_prev_peque5">
+                <p class="btn_conv_prev">< PREVIOUS </p>
+                <p class="btn_conv_next">NEXT ></p>
+            </div>
+
+    </div>
+        <div id="sec_btn_refresh6">
+                <div id="btn_check"></div>
+                <div id="btn_clear"></div>
+                <div id="btn_view"></div>
+        </div>    
+    
+	</div>
+</div>
+<div id="sec_btn_booton">
+	<p class="btn_conv_prev">< exercise 12 </p>
+    <p class="btn_conv_next"> WRITING ></p>
+</div> 
+<footer>
+    <p>Virtual English Online Program • Level 3 2014, Books &amp; Books</p>
+</footer>
+</div> 
+</body>
+</html>
+<script type="text/javascript">
+
+    ind=39;
+    navegacionInterna(ind,"sec_botonera_izq_6","sec_btn_next_prev_peque5");
+    construirNavegacionLateral(ind);
+    construirNavegacionMenu(ind);
+
+    $("#btn_view").css("float","left")
+    clase_id=".caja_gris_respuesta_drop_4";
+    //bloquearSeleccion (".bg_drop_2")
+    
+    referencias=[["didyouusetogotoschoolinthisneighborhood?","didyouusetogotoschoolinthisneighborhood?."]];
+    respuestas=["Did you use to go to school in this neighborhood?"]
+    revisarTextosMultiplesReferencias (clase_id,referencias,respuestas);
+    borrarTextos (clase_id)
+
+    //concatAudio (["L1_Exer_6_1.mp3","L2_exer_2_a.mp3"],"#btn_audio_contro3") 
+</script>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordsearchpuzzle musicPlayerIndent = "0" autoPlayMusic = "true" musicVolume = "0.55" width = "max" height = "max" menuWidth="138" placeWords = "22" solutionColor = "0x86A7F0" readingDirection="leftToRight" mode="regular" timeLimit="180" submitResults="true" timeWeight="0.1" cellDimensions="25">
+	<filter>BadWords.xml</filter>
+	<id>demopuzzle5</id>
+	<additionalTitle>All Around The World</additionalTitle>
+	<alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>
+    <word info="Afternoon">AFTERNOON</word>
+	<word info="Interesting">INTERESTING</word>
+	<word info="Architecture">ARCHITECTURE</word>
+	<word info="Literatura">LITERATURA</word>
+	<word info="Boss">BOSS</word>
+	<word info="Meet">MEET</word>
+	<word info="College">COLLEGE</word>
+	<word info="Nice">NICE</word>
+	<word info="Company">COMPANY</word>
+	<word info="Stylist">STYLIST</word>
+	<word info="Engineer">ENGINEER</word>
+	<word info="Sydney">SYDNEY</word>
+	<word info="Great">GREAT</word>
+	<word info="Teacher">TEACHER</word>
+	<word info="Husband">HUSBAND</word>
+</wordsearchpuzzle>

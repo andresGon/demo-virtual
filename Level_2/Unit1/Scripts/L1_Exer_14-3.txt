@@ -1,0 +1,1 @@
+../jpg/L1/art-1_1_vb3_d.png,../jpg/L1/art-1_1_vb3_j.png,../jpg/L1/art-1_1_vb3_a.png

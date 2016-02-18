@@ -1,0 +1,1 @@
+../jpg/L1/art_hermano.png,../jpg/L1/art_primos.png,../jpg/L1/art_madre.png
