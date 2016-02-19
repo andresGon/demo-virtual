@@ -1640,6 +1640,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
         .titA2{
                 background: @orange1;
         }
+        .titA2plus{
+                background: @orange2;
+        }
+        .titB1{
+                background: @red1;
+        }
+        .titB1plus{
+                background: @blue1;
+        }
         .wrapsScopeSel{
                 position: relative;
                 p{
@@ -1731,6 +1740,42 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
                         &:nth-child(2){
                                 border-top: 1px solid @orange1;
                                 border-right: 1px solid @orange1;
+                        }
+                }
+        }
+        .tableA2plus{
+                td{
+                        border-bottom:  1px solid @orange2;
+                        &:first-child{
+                                background: @orange2;
+                        }
+                        &:nth-child(2){
+                                border-top: 1px solid @orange2;
+                                border-right: 1px solid @orange2;
+                        }
+                }
+        }
+        .tableB1{
+                td{
+                        border-bottom:  1px solid @red1;
+                        &:first-child{
+                                background: @red1;
+                        }
+                        &:nth-child(2){
+                                border-top: 1px solid @red1;
+                                border-right: 1px solid @red1;
+                        }
+                }
+        }
+        .tableB1plus{
+                td{
+                        border-bottom:  1px solid @blue1;
+                        &:first-child{
+                                background: @blue1;
+                        }
+                        &:nth-child(2){
+                                border-top: 1px solid @blue1;
+                                border-right: 1px solid @blue1;
                         }
                 }
         }

@@ -1528,6 +1528,15 @@ h2 {
 .contScope .titA2 {
   background: #FABB34;
 }
+.contScope .titA2plus {
+  background: #EF8240;
+}
+.contScope .titB1 {
+  background: #E74648;
+}
+.contScope .titB1plus {
+  background: #0CA4BF;
+}
 .contScope .wrapsScopeSel {
   position: relative;
 }
@@ -1611,4 +1620,34 @@ h2 {
 .tableScope .tableA2 td:nth-child(2) {
   border-top: 1px solid #FABB34;
   border-right: 1px solid #FABB34;
+}
+.tableScope .tableA2plus td {
+  border-bottom: 1px solid #EF8240;
+}
+.tableScope .tableA2plus td:first-child {
+  background: #EF8240;
+}
+.tableScope .tableA2plus td:nth-child(2) {
+  border-top: 1px solid #EF8240;
+  border-right: 1px solid #EF8240;
+}
+.tableScope .tableB1 td {
+  border-bottom: 1px solid #E74648;
+}
+.tableScope .tableB1 td:first-child {
+  background: #E74648;
+}
+.tableScope .tableB1 td:nth-child(2) {
+  border-top: 1px solid #E74648;
+  border-right: 1px solid #E74648;
+}
+.tableScope .tableB1plus td {
+  border-bottom: 1px solid #0CA4BF;
+}
+.tableScope .tableB1plus td:first-child {
+  background: #0CA4BF;
+}
+.tableScope .tableB1plus td:nth-child(2) {
+  border-top: 1px solid #0CA4BF;
+  border-right: 1px solid #0CA4BF;
 }

@@ -111,9 +111,9 @@
                                 <p>Level</p>
                                 <a ng-click="showBtnA1()">a <span>1</span></a>
                                 <a ng-click="showBtnA2()">a <span>2</span></a>
-                                <a href="">a <span>2 +</span></a>
-                                <a href="">b <span>1</span></a>
-                                <a href="">b <span>1 +</span></a>
+                                <a ng-click="showBtnA2plus()">a <span>2 +</span></a>
+                                <a ng-click="showBtnB1()">b <span>1</span></a>
+                                <a ng-click="showBtnB1plus()">b <span>1 +</span></a>
                         </div>
                         <div class="contScope">
 
@@ -186,7 +186,109 @@
                                                 </table>
                                         </div>
                                 </div>
-                                <!--  ================================== fin show a1 ===================================-->
+                                <!--  ================================== fin show a2 ===================================-->
+                                <!--  ================================== show a2 plus ===================================-->
+                                <div ng-show="showA2plus">
+                                        <h1 class="titA2plus">
+                                                Scope and Sequence Level 2
+                                        </h1>
+
+                                        <div class="wrapsScopeSel">
+                                                <p>unit</p>
+                                                <select ng-model="unitA2plus">
+                                                        <option value="one"> 1 Sign In</option>
+                                                        <option value="two" >2 My Profile</option>
+                                                        <option value="tree">3 Family and Friends</option>
+                                                        <option value="four">4 My Social Network</option>
+                                                        <option value="five">5 My Community</option>
+                                                </select>
+                                        </div>
+
+
+                                        <div class="tableScope" >
+                                                <table class="tableA2plus" width="100%"  ng-show="unitA2plus=='one' ">
+                                                          <tr ng-repeat="dataA2plus in datosA2plus | filter: {id : 01} "  >
+                                                                    <td width="20%">{{dataA2plus.titulo}}</td>
+                                                                    <td width="80%"> {{dataA2plus.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA2plus" width="100%"  ng-show="unitA2plus=='two'">
+                                                          <tr ng-repeat="dataA2plus in datosA2plus | filter: {id : 02}"  >
+                                                                    <td width="20%">{{dataA2plus.titulo}}</td>
+                                                                    <td width="80%"> {{dataA2plus.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                        </div>
+                                </div>
+                                <!--  ================================== fin show a2 plus ===================================-->
+                                <!--  ================================== show b1 ===================================-->
+                                <div ng-show="showB1">
+                                        <h1 class="titB1">
+                                                Scope and Sequence Level 3
+                                        </h1>
+
+                                        <div class="wrapsScopeSel">
+                                                <p>unit</p>
+                                                <select ng-model="unitB1">
+                                                        <option value="one"> 1 Sign In</option>
+                                                        <option value="two" >2 My Profile</option>
+                                                        <option value="tree">3 Family and Friends</option>
+                                                        <option value="four">4 My Social Network</option>
+                                                        <option value="five">5 My Community</option>
+                                                </select>
+                                        </div>
+
+
+                                        <div class="tableScope" >
+                                                <table class="tableB1" width="100%"  ng-show="unitB1=='one' ">
+                                                          <tr ng-repeat="dataB1 in datosB1 | filter: {id : 01} "  >
+                                                                    <td width="20%">{{dataB1.titulo}}</td>
+                                                                    <td width="80%"> {{dataB1.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableB1" width="100%"  ng-show="unitB1=='two'">
+                                                          <tr ng-repeat="dataB1 in datosB1 | filter: {id : 02}"  >
+                                                                    <td width="20%">{{dataB1.titulo}}</td>
+                                                                    <td width="80%"> {{dataB1.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                        </div>
+                                </div>
+                                <!--  ================================== fin show b1 ===================================-->
+                                <!--  ================================== show b1 plus===================================-->
+                                <div ng-show="showB1plus">
+                                        <h1 class="titB1plus">
+                                                Scope and Sequence Level 3
+                                        </h1>
+
+                                        <div class="wrapsScopeSel">
+                                                <p>unit</p>
+                                                <select ng-model="unitB1plus">
+                                                        <option value="one"> 1 Sign In</option>
+                                                        <option value="two" >2 My Profile</option>
+                                                        <option value="tree">3 Family and Friends</option>
+                                                        <option value="four">4 My Social Network</option>
+                                                        <option value="five">5 My Community</option>
+                                                </select>
+                                        </div>
+
+
+                                        <div class="tableScope" >
+                                                <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='one' ">
+                                                          <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : 01} "  >
+                                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                                    <td width="80%"> {{dataB1plus.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='two'">
+                                                          <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : 02}"  >
+                                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                                    <td width="80%"> {{dataB1plus.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                        </div>
+                                </div>
+                                <!--  ================================== fin show b1  plus ===================================-->
 
                         </div>
                 </div>
