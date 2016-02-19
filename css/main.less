@@ -1625,7 +1625,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
         height: 200px;
         float: left;
         h1{
-                background: @green1;
                 color: #fff;
                 width: 100%;
                 height: 60px;
@@ -1635,7 +1634,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
                 font-family: @pacifico;
                 text-shadow: @textS;
         }
+        .titA1{
+                background: @green1;
+        }
+        .titA2{
+                background: @orange1;
+        }
         .wrapsScopeSel{
+                position: relative;
                 p{
                         padding-left: 25px;
                         font-family: @cabin;
@@ -1650,9 +1656,33 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
                         background: @gray1;
                         border: none;
                         border-radius: 0;
-                        margin: 25px 0 0 18px;;
+                        margin: 25px 0 0 18px;
                 }
+                .menuUnit{
+                        height: 33px;
+                        overflow: hidden;
+                        margin-top: 29px;
+                        width: 700px;
+                        position: absolute;
+                        right: 0;
+                        a{
+                                display: block;
+                                width: 100%;
+                                height: 33px;
+                                background: @gray1;
+                                border-bottom: 1px solid #fff;
+                                line-height: 33px;
+                                &:hover{
+                                        background: #ccc;
+                                }
+                        }
+
+                }
+
         }
+}
+.openMenu{
+        height: 66px !important;
 }
 .tableScope{
         float: left;
@@ -1666,26 +1696,41 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
                         font-family: @cabin;
 
                         &:first-child{
-                                background: @green1;
                                 color: #fff;
                                 border-bottom: 1px solid #fff;
                                 font-size: 18px;
                         }
                         &:nth-child(2){
                                 font-size: 14px;
-                                border-top: 1px solid @green1;
-                                border-right: 1px solid @green1;
                                 text-align: left;
                                 padding-left: 10px;
                         }
                 }
-                tr{
-                        &:last-child{
-                                td{
-                                        &:nth-child(2){
-                                                border-bottom: 1px solid @green1;
-                                        }
-                                }
+
+        }
+        .tableA1{
+                border-bottom:  1px solid @green1;
+                td{
+
+                        &:first-child{
+                                background: @green1;
+                        }
+                        &:nth-child(2){
+                                border-top: 1px solid @green1;
+                                border-right: 1px solid @green1;
+                        }
+                }
+
+        }
+        .tableA2{
+                td{
+                        border-bottom:  1px solid @orange1;
+                        &:first-child{
+                                background: @orange1;
+                        }
+                        &:nth-child(2){
+                                border-top: 1px solid @orange1;
+                                border-right: 1px solid @orange1;
                         }
                 }
         }

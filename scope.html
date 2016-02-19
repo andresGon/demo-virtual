@@ -19,7 +19,6 @@
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
-        <script type="text/javascript" src="https://code.angularjs.org/1.5.0/angular-resource.min.js"></script>
         <script type="text/javascript" src="js/angularScope.js">
 
         </script>
@@ -110,37 +109,84 @@
                 <div class="wrapScope" ng-controller="appController">
                         <div class="levelLat">
                                 <p>Level</p>
-                                <a href="">a <span>1</span></a>
-                                <a href="">a <span>2</span></a>
+                                <a ng-click="showBtnA1()">a <span>1</span></a>
+                                <a ng-click="showBtnA2()">a <span>2</span></a>
                                 <a href="">a <span>2 +</span></a>
                                 <a href="">b <span>1</span></a>
                                 <a href="">b <span>1 +</span></a>
                         </div>
                         <div class="contScope">
-                                <h1>
-                                        Scope and Sequence Level Starter
-                                </h1>
 
-                                <div class="wrapsScopeSel">
-                                        <p>Unit</p>
-                                        <select class="" name="">
-                                                <option value=""> 1 Sign In</option>
-                                                <option value="">2 My Profile</option>
-                                                <option value="">3 Family and Friends</option>
-                                                <option value="">4 My Social Network</option>
-                                                <option value="">5 My Community</option>
-                                        </select>
-                                </div>
-                                
-                                <div class="tableScope TableA1">
-                                        <table width="100%"  >
-                                                  <tr ng-repeat="data in datos"  >
-                                                            <td width="20%">{{data.titulo}}</td>
-                                                            <td width="80%"> {{data.contenido}}</td>
-                                                  </tr>
-                                        </table>
-                                </div>
+                                <!--  ================================== show a1 ===================================-->
+                                <div ng-show="showA1">
+                                        <h1 class="titA1">
+                                                Scope and Sequence Level Starter
+                                        </h1>
 
+                                        <div class="wrapsScopeSel">
+                                                <p>unit</p>
+                                                <select ng-model="unit1">
+                                                        <option value="one"> 1 Sign In</option>
+                                                        <option value="two" >2 My Profile</option>
+                                                        <option value="tree">3 Family and Friends</option>
+                                                        <option value="four">4 My Social Network</option>
+                                                        <option value="five">5 My Community</option>
+                                                </select>
+                                        </div>
+
+
+                                        <div class="tableScope" >
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='one'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 01} "  >
+                                                                    <td width="20%">{{data.titulo}}</td>
+                                                                    <td width="80%"> {{data.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='two'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 02}"  >
+                                                                    <td width="20%">{{data.titulo}}</td>
+                                                                    <td width="80%"> {{data.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                        </div>
+                                </div>
+                                <!--  ================================== fin show a1 ===================================-->
+
+
+                                <!--  ================================== show a2 ===================================-->
+                                <div ng-show="showA2">
+                                        <h1 class="titA2">
+                                                Scope and Sequence Level 1
+                                        </h1>
+
+                                        <div class="wrapsScopeSel">
+                                                <p>unit</p>
+                                                <select ng-model="unitA2">
+                                                        <option value="one"> 1 Sign In</option>
+                                                        <option value="two" >2 My Profile</option>
+                                                        <option value="tree">3 Family and Friends</option>
+                                                        <option value="four">4 My Social Network</option>
+                                                        <option value="five">5 My Community</option>
+                                                </select>
+                                        </div>
+
+
+                                        <div class="tableScope" >
+                                                <table class="tableA2" width="100%"  ng-show="unitA2=='one' ">
+                                                          <tr ng-repeat="dataA2 in datosA2 | filter: {id : 01} "  >
+                                                                    <td width="20%">{{dataA2.titulo}}</td>
+                                                                    <td width="80%"> {{dataA2.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA2" width="100%"  ng-show="unitA2=='two'">
+                                                          <tr ng-repeat="dataA2 in datosA2 | filter: {id : 02}"  >
+                                                                    <td width="20%">{{dataA2.titulo}}</td>
+                                                                    <td width="80%"> {{dataA2.contenido}}</td>
+                                                          </tr>
+                                                </table>
+                                        </div>
+                                </div>
+                                <!--  ================================== fin show a1 ===================================-->
 
                         </div>
                 </div>
