@@ -146,4 +146,10 @@ $(document).ready(function() {
          return false;
      });
 
+     $('.btnScope').hover(function() {
+     	$('.hand').addClass('animated fadeInUp')
+     }, function() {
+     		$('.hand').removeClass('animated fadeInUp')
+     });
+
 });

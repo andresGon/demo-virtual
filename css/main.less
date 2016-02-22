@@ -430,6 +430,87 @@ h2 {
     display: inline-block;
     background: url('../img/bgPresentacion.svg');
     margin: 263px 10px;
+    &:hover{
+            .hand{
+
+                      animation: animationFrames linear 2s;
+                      animation-iteration-count: infinite;
+                      transform-origin: 50% 50%;
+                      -webkit-animation: animationFrames linear 2s;
+                      -webkit-animation-iteration-count: infinite;
+                      -webkit-transform-origin: 50% 50%;
+                      -moz-animation: animationFrames linear 2s;
+                      -moz-animation-iteration-count: infinite;
+                      -moz-transform-origin: 50% 50%;
+                      -o-animation: animationFrames linear 2s;
+                      -o-animation-iteration-count: infinite;
+                      -o-transform-origin: 50% 50%;
+                      -ms-animation: animationFrames linear 2s;
+                      -ms-animation-iteration-count: infinite;
+                      -ms-transform-origin: 50% 50%;
+                    }
+
+                    @keyframes animationFrames{
+                      0% {
+                        transform:  translate(0px,0px)  ;
+                      }
+                      50% {
+                        transform:  translate(-1px,-60px)  ;
+                      }
+                      100% {
+                        transform:  translate(0px,0px)  ;
+                      }
+                    }
+
+                    @-moz-keyframes animationFrames{
+                      0% {
+                        -moz-transform:  translate(0px,0px)  ;
+                      }
+                      50% {
+                        -moz-transform:  translate(-1px,-60px)  ;
+                      }
+                      100% {
+                        -moz-transform:  translate(0px,0px)  ;
+                      }
+                    }
+
+                    @-webkit-keyframes animationFrames {
+                      0% {
+                        -webkit-transform:  translate(0px,0px)  ;
+                      }
+                      50% {
+                        -webkit-transform:  translate(-1px,-60px)  ;
+                      }
+                      100% {
+                        -webkit-transform:  translate(0px,0px)  ;
+                      }
+                    }
+
+                    @-o-keyframes animationFrames {
+                      0% {
+                        -o-transform:  translate(0px,0px)  ;
+                      }
+                      50% {
+                        -o-transform:  translate(-1px,-60px)  ;
+                      }
+                      100% {
+                        -o-transform:  translate(0px,0px)  ;
+                      }
+                    }
+
+                    @-ms-keyframes animationFrames {
+                      0% {
+                        -ms-transform:  translate(0px,0px)  ;
+                      }
+                      50% {
+                        -ms-transform:  translate(-1px,-60px)  ;
+                      }
+                      100% {
+                        -ms-transform:  translate(0px,0px)  ;
+                      }
+
+            }
+    }
     span {
         display: inline-block;
         position: absolute;
@@ -465,6 +546,83 @@ h2 {
                       position: absolute;
                       left: 21px;
                       top: 28px;
+                      &:hover{
+                              animation: animationFrames linear 2s;
+animation-iteration-count: infinite;
+transform-origin: 50% 50%;
+-webkit-animation: animationFrames linear 2s;
+-webkit-animation-iteration-count: infinite;
+-webkit-transform-origin: 50% 50%;
+-moz-animation: animationFrames linear 2s;
+-moz-animation-iteration-count: infinite;
+-moz-transform-origin: 50% 50%;
+-o-animation: animationFrames linear 2s;
+-o-animation-iteration-count: infinite;
+-o-transform-origin: 50% 50%;
+-ms-animation: animationFrames linear 2s;
+-ms-animation-iteration-count: infinite;
+-ms-transform-origin: 50% 50%;
+}
+
+@keyframes animationFrames{
+0% {
+  transform:  translate(0px,0px)  rotate(0deg) scaleX(1.00) ;
+}
+50% {
+  transform:  translate(0px,0px)  scaleX(1.20) ;
+}
+100% {
+  transform:  translate(NaNpx,0px)  rotate(NaNdeg) scaleX(1.00) ;
+}
+}
+
+@-moz-keyframes animationFrames{
+0% {
+  -moz-transform:  translate(0px,0px)  rotate(0deg) scaleX(1.00) ;
+}
+50% {
+  -moz-transform:  translate(0px,0px)  scaleX(1.20) ;
+}
+100% {
+  -moz-transform:  translate(NaNpx,0px)  rotate(NaNdeg) scaleX(1.00) ;
+}
+}
+
+@-webkit-keyframes animationFrames {
+0% {
+  -webkit-transform:  translate(0px,0px)  rotate(0deg) scaleX(1.00) ;
+}
+50% {
+  -webkit-transform:  translate(0px,0px)  scaleX(1.20) ;
+}
+100% {
+  -webkit-transform:  translate(NaNpx,0px)  rotate(NaNdeg) scaleX(1.00) ;
+}
+}
+
+@-o-keyframes animationFrames {
+0% {
+  -o-transform:  translate(0px,0px)  rotate(0deg) scaleX(1.00) ;
+}
+50% {
+  -o-transform:  translate(0px,0px)  scaleX(1.20) ;
+}
+100% {
+  -o-transform:  translate(NaNpx,0px)  rotate(NaNdeg) scaleX(1.00) ;
+}
+}
+
+@-ms-keyframes animationFrames {
+0% {
+  -ms-transform:  translate(0px,0px)  rotate(0deg) scaleX(1.00) ;
+}
+50% {
+  -ms-transform:  translate(0px,0px)  scaleX(1.20) ;
+}
+100% {
+  -ms-transform:  translate(NaNpx,0px)  rotate(NaNdeg) scaleX(1.00) ;
+}
+                      }
             }
             .hand{
                     position: absolute;
@@ -473,6 +631,7 @@ h2 {
                      height: 26px;
                      bottom: 30px;
                      left: 42px;
+
             }
         }
     }
@@ -494,6 +653,7 @@ h2 {
                 }
     &:hover>span{
         font-size: 18px;
+        left: 15px;
     }
 
 
@@ -1855,6 +2015,76 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
                         &:nth-child(2){
                                 border-top: 1px solid @blue1;
                                 border-right: 1px solid @blue1;
+                        }
+                }
+        }
+}
+.topScope{
+        .btnCircle2{
+                background-image: url(../img/bookTop.png);
+                background-color: #d1d1d1;
+                background-repeat: no-repeat;
+                background-position: center;
+                position: relative;
+                .book{
+                        background: url(../img/book.svg);
+                        background-size: cover;
+                        width: 44px;
+                        height: 40px;
+                        position: absolute;
+                        top: 22px;
+                        left: 19px;
+                }
+                .hand{
+                        background: url(../img/hand.svg);
+                        background-size: cover;
+                        width: 10px;
+                        height: 15px;
+                        position: absolute;
+                        bottom: 20px;
+                        left: 25px;
+                }
+                &:hover{
+                        .book{
+                                animation: animationFrames linear 2s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: animationFrames linear 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  -moz-animation: animationFrames linear 2s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transform-origin: 50% 50%;
+  -o-animation: animationFrames linear 2s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: animationFrames linear 2s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+  }
+
+  @keyframes animationFrames{
+  0% {
+    transform:  translate(0px,0px)  rotate(0deg) scaleX(1.00) ;
+  }
+  50% {
+    transform:  translate(0px,0px)  scaleX(1.20) ;
+  }
+  100% {
+    transform:  translate(NaNpx,0px)  rotate(NaNdeg) scaleX(1.00) ;
+  }
+  }
+
+  @-moz-keyframes animationFrames{
+  0% {
+    -moz-transform:  translate(0px,0px)  rotate(0deg) scaleX(1.00) ;
+  }
+  50% {
+    -moz-transform:  translate(0px,0px)  scaleX(1.20) ;
+  }
+  100% {
+    -moz-transform:  translate(NaNpx,0px)  rotate(NaNdeg) scaleX(1.00) ;
+  }
                         }
                 }
         }

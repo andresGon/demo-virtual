@@ -376,6 +376,78 @@ h2 {
   background: url('../img/bgPresentacion.svg');
   margin: 263px 10px;
 }
+.btnScope:hover .hand {
+  animation: animationFrames linear 2s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: animationFrames linear 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  -moz-animation: animationFrames linear 2s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transform-origin: 50% 50%;
+  -o-animation: animationFrames linear 2s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: animationFrames linear 2s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+}
+@keyframes animationFrames {
+  0% {
+    transform: translate(0px, 0px);
+  }
+  50% {
+    transform: translate(-1px, -60px);
+  }
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+@-moz-keyframes animationFrames {
+  0% {
+    -moz-transform: translate(0px, 0px);
+  }
+  50% {
+    -moz-transform: translate(-1px, -60px);
+  }
+  100% {
+    -moz-transform: translate(0px, 0px);
+  }
+}
+@-webkit-keyframes animationFrames {
+  0% {
+    -webkit-transform: translate(0px, 0px);
+  }
+  50% {
+    -webkit-transform: translate(-1px, -60px);
+  }
+  100% {
+    -webkit-transform: translate(0px, 0px);
+  }
+}
+@-o-keyframes animationFrames {
+  0% {
+    -o-transform: translate(0px, 0px);
+  }
+  50% {
+    -o-transform: translate(-1px, -60px);
+  }
+  100% {
+    -o-transform: translate(0px, 0px);
+  }
+}
+@-ms-keyframes animationFrames {
+  0% {
+    -ms-transform: translate(0px, 0px);
+  }
+  50% {
+    -ms-transform: translate(-1px, -60px);
+  }
+  100% {
+    -ms-transform: translate(0px, 0px);
+  }
+}
 .btnScope span {
   display: inline-block;
   position: absolute;
@@ -413,6 +485,78 @@ h2 {
   left: 21px;
   top: 28px;
 }
+.btnScope .circInner1 .circInner2 .book:hover {
+  animation: animationFrames linear 2s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: animationFrames linear 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  -moz-animation: animationFrames linear 2s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transform-origin: 50% 50%;
+  -o-animation: animationFrames linear 2s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: animationFrames linear 2s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+}
+@keyframes animationFrames {
+  0% {
+    transform: translate(0px, 0px) rotate(0deg) scaleX(1);
+  }
+  50% {
+    transform: translate(0px, 0px) scaleX(1.2);
+  }
+  100% {
+    transform: translate(NaNpx, 0px) rotate(NaNdeg) scaleX(1);
+  }
+}
+@-moz-keyframes animationFrames {
+  0% {
+    -moz-transform: translate(0px, 0px) rotate(0deg) scaleX(1);
+  }
+  50% {
+    -moz-transform: translate(0px, 0px) scaleX(1.2);
+  }
+  100% {
+    -moz-transform: translate(NaNpx, 0px) rotate(NaNdeg) scaleX(1);
+  }
+}
+@-webkit-keyframes animationFrames {
+  0% {
+    -webkit-transform: translate(0px, 0px) rotate(0deg) scaleX(1);
+  }
+  50% {
+    -webkit-transform: translate(0px, 0px) scaleX(1.2);
+  }
+  100% {
+    -webkit-transform: translate(NaNpx, 0px) rotate(NaNdeg) scaleX(1);
+  }
+}
+@-o-keyframes animationFrames {
+  0% {
+    -o-transform: translate(0px, 0px) rotate(0deg) scaleX(1);
+  }
+  50% {
+    -o-transform: translate(0px, 0px) scaleX(1.2);
+  }
+  100% {
+    -o-transform: translate(NaNpx, 0px) rotate(NaNdeg) scaleX(1);
+  }
+}
+@-ms-keyframes animationFrames {
+  0% {
+    -ms-transform: translate(0px, 0px) rotate(0deg) scaleX(1);
+  }
+  50% {
+    -ms-transform: translate(0px, 0px) scaleX(1.2);
+  }
+  100% {
+    -ms-transform: translate(NaNpx, 0px) rotate(NaNdeg) scaleX(1);
+  }
+}
 .btnScope .circInner1 .circInner2 .hand {
   position: absolute;
   background: url('../img/hand.svg');
@@ -437,6 +581,7 @@ h2 {
 }
 .btnScope:hover > span {
   font-size: 18px;
+  left: 15px;
 }
 @-webkit-keyframes swing {
   20%,
@@ -1724,4 +1869,68 @@ h2 {
 .tableScope .tableB1plus td:nth-child(2) {
   border-top: 1px solid #0CA4BF;
   border-right: 1px solid #0CA4BF;
+}
+.topScope .btnCircle2 {
+  background-image: url(../img/bookTop.png);
+  background-color: #d1d1d1;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+.topScope .btnCircle2 .book {
+  background: url(../img/book.svg);
+  background-size: cover;
+  width: 44px;
+  height: 40px;
+  position: absolute;
+  top: 22px;
+  left: 19px;
+}
+.topScope .btnCircle2 .hand {
+  background: url(../img/hand.svg);
+  background-size: cover;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+}
+.topScope .btnCircle2:hover .book {
+  animation: animationFrames linear 2s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: animationFrames linear 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  -moz-animation: animationFrames linear 2s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transform-origin: 50% 50%;
+  -o-animation: animationFrames linear 2s;
+  -o-animation-iteration-count: infinite;
+  -o-transform-origin: 50% 50%;
+  -ms-animation: animationFrames linear 2s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transform-origin: 50% 50%;
+}
+@keyframes animationFrames {
+  0% {
+    transform: translate(0px, 0px) rotate(0deg) scaleX(1);
+  }
+  50% {
+    transform: translate(0px, 0px) scaleX(1.2);
+  }
+  100% {
+    transform: translate(NaNpx, 0px) rotate(NaNdeg) scaleX(1);
+  }
+}
+@-moz-keyframes animationFrames {
+  0% {
+    -moz-transform: translate(0px, 0px) rotate(0deg) scaleX(1);
+  }
+  50% {
+    -moz-transform: translate(0px, 0px) scaleX(1.2);
+  }
+  100% {
+    -moz-transform: translate(NaNpx, 0px) rotate(NaNdeg) scaleX(1);
+  }
 }
