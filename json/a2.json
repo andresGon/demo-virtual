@@ -1,377 +1,481 @@
 [
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Vocabulary",
 		"contenido" : "Greetings <br> Basic social conversations <br> Personal information <br> Occupations and work or studies."
 	},
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Structures",
 		"contenido" : "Question formation with do. <br> Simple present."
 	},
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Expressions / Functions",
 		"contenido" : "Greetings Social conversations and basic small talk. <br> How are you? Fine, thanks, and you? How’s work? Where do you work? Where do you go to school? / Where do you study? Where are you from? Where do you live?"
 	},
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Pronunciation",
 		"contenido" : "Vowels for greetings. <br> Intonation in questions."
 	},
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Listening",
 		"contenido" : "Understand simple questions and social conversations about oneself and others."
 	},
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Speaking",
 		"contenido" : "Exchange greetings and small talk, ask and respond to questions. Share and react to news."
 	},
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Reading",
 		"contenido" : "Understand social conversations and short e-mails sharing news and greetings."
 	},
 	{
-		"id": "uno",
+		"id": "01",
 		"titulo" : "Writing",
 		"contenido" : "Write a short e-mail message sharing news, and greetings with friends and family."
 	},
 	{
 		"id": "02",
 		"titulo" : "Vocabulary",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Family and extended family (recycle family + uncle, aunt, cousin, grandchildren, families of divorce (2nd wife, ex-wife, girlfriend, etc., step-mother, step-brother) Social conversations Occupations and work or studies Typical family reports of health, activities, illness, marriages, babies, etc."
 	},
 	{
 		"id": "02",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Personal pronouns. <br> Questions with do/does <br> 3rd person simple present. <br> Present continuous for current activities (where’s she working / living now?) <br> Simple past for incidents, events, personal experiences."
 	},
 	{
 		"id": "02",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "How are you? How’s your family? How’s your father / mother / etc. How’s ______ (name)? <br> Where is s/he working? Where does s/he live (now)? Where does s/he go to school / Where does s/he study? <br> She got married / divorced /  sick / cancer (?) <br> Oh, that’s great. <br> Oh, that’s too bad. I’m so sorry (reacting to break up, death)."
 	},
 	{
 		"id": "02",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
-	},
+		"contenido" : "Schwa vowel with family words (recycle: mother, brother, son, husband, add cousin). <br> Other family vowels (aunt, daughter)?"},
 	{
 		"id": "02",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand requests for news and information about family. <br> Understand simple conversations sharing news and exchanging information about family members including occupations, work and studies, health, incidents and personal experiences."
 	},
 	{
 		"id": "02",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Exchange news and information about family, including news, work, study and occupations, current activities, health. <br> React to news, positive and negative."
 	},
 	{
 		"id": "02",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand social conversations and short e-mails sharing news and information about family members, recent events, current activities, incidents and personal experiences."
+	},
+	{
+		"id": "02",
+		"titulo" : "Writing",
+		"contenido" : "Write a short e-mail message, sharing greetings and news about family members, personal experiences, current activities, interests, incidents, events."
+	},
+	{
+		"id": "03",
+		"titulo" : "Vocabulary",
+		"contenido" : "Interests, hobbies <br> and activities. <br>  Sports and exercise. <br> Categories / genre of music, TV shows, sports, activities, movies, video games, websites, videos. <br> Favorite bands, TV shows, movies, actors / actresses, athletes, sports, teams. <br> Adjectives to describe favorite things (recycle from Starter: great, awesome, cool, include new expressions: the best, funny..)"
 	},
 	{
 		"id": "03",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : " Question formation with do. <br> Do you….? What kind of … do you….? <br> like + noun <br> like + to <br> like + to + go +-ing <br> Negatives <br> Don’t / like."
 	},
 	{
 		"id": "03",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "What kind of… do you like? Do you like? Do you like to…? Do you like to go…? I like I don’t like I like to …. I don’t like to … I like to go….. I don’t like to go… <br> Me too, me neither. <br> I prefer… I’d rather…"
 	},
 	{
 		"id": "03",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Sentence focus (stress in sentences with key words). <br> Sentence focus to show contrast: <br> Do you like to go out DANCING? I prefer to /I’d rather stay at HOME."
 	},
 	{
 		"id": "03",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand short conversations about peoples’ interests, hobbies and activities. <br> Understand the categories or genre of things people like, e.g. music, movies, TV shows, actors, sports, athletes, teams, video games, websites / web activities. <br> Understand a short video about a topic of interest. (web quest)."
 	},
 	{
 		"id": "03",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Exchange information with another person about their interests, hobbies and activities. <br> Talk about your favorite bands, music, movies, TV programs, videogames, websites, videos."
 	},
 	{
 		"id": "03",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand brief descriptions of people’s interests, hobbies and activities in a web page profile or similar. <br> Follow a fan page or group on internet. <br> Read websites geared to different interests, subcultures. <br> Read a website of interest and report. (webquest)"
+	},
+	{
+		"id": "03",
+		"titulo" : "Writing",
+		"contenido" : "Write a web page profile about your interests, hobbies and activities. <br> Post in a blog of interest to you."
+	},
+	{
+		"id": "04",
+		"titulo" : "Vocabulary",
+		"contenido" : "More interests and activities, sports and hobbies (recycle from Starter) Things people really like to do, and also things people may not like to do at all (dance, watch soccer on TV, go to the stadium, go shopping, go out at night, go to bars or discos, go to the movies, go to the mall, go to the gym, go on internet, use the computer, talk on the phone, text or chat with their friends, play videogames Social network Things in common Review friends vocabulary (friends and acquaintances from Starter Unit 3) What about or why a person likes or dislikes doing certain things: She doesn’t like going out. She hates crowds. He’d rather stay home."
 	},
 	{
 		"id": "04",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Question formation with do. <br> 3rd person singular and plural. <br> Simple present. <br> Subject pronouns. <br> Negatives <br> Go + -ing activities"
 	},
 	{
 		"id": "04",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Who’s s/he? Who are they? <br> Does s/he like…? Does s/he like to…? Does s/he like to go…? <br> S/he loves to _____. <br> S/he likes / doesn’t like… <br> S/he hates _____. <br> They like / don’t like… Expressing commonality. <br> Me too, me neither. She prefers… He’d rather… They…."
 	},
 	{
 		"id": "04",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Stress in sentences with key words."
 	},
 	{
 		"id": "04",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand short conversations about people’s interests, hobbies and activities. <br> Understand whether or not speakers like or don’t like certain activities, and why they prefer others. <br> Understand what speakers have in common."
 	},
 	{
 		"id": "04",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Exchange information about interests, hobbies and activities with friends. <br> Express likes and dislikes about activities and interests, express preferences and reasons. <br> Express commonality with others."
 	},
 	{
 		"id": "04",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand brief descriptions of peoples’ personalities, hobbies and interests. <br> Point out common interests between people."
+	},
+	{
+		"id": "04",
+		"titulo" : "Writing",
+		"contenido" : "Write a short description of a friend and the interests hobbies and activities you share."
+	},
+	{
+		"id": "05",
+		"titulo" : "Vocabulary",
+		"contenido" : "Weekend and vacation activities (recycle from Starter). <br>Events and social activities (Recycle from Unit 1).  <br>Dates of the year Ordinal #s Time (recycle). <br>Int’l tourist destinations Places to stay. <br>Specific destinations in Colombia. <br>Adjectives for places (recycle Starter). <br>More adjectives for places incl. expensive."
 	},
 	{
 		"id": "05",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Present progressive for present and future. <br> Describing events and places with there’s / there are. <br> Specifying time and date with It’s at… It’s on. <br> Time expressions: early late on time."
 	},
 	{
 		"id": "05",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Invitations with (recycle Starter) What are you doing this weekend….? <br> Would you like to…? <br> Do you want to…? Accepting and declining invitations (recycle starter) I’m busy, I have plans. <br> Suggestions with (recycle starter) Let’s… <br> Suggested travel with you should see / visit / go to… Don’t miss..."
 	},
 	{
 		"id": "05",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Reductions /θ/ Thursday Ordinal #s Birthday 19th."
 	},
 	{
 		"id": "05",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand conversations about weekend and vacation plans, and social activities. <br> Understand invitations to events and places, including times and dates. <br> Understand whether people accept or decline invitations. <br> Understand descriptions of touristic places in Colombia and internationally."
 	},
 	{
 		"id": "05",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Carry out conversations about social events, weekend and vacation plans. <br> Make suggestions and invitations to events and places, accept or decline invitations. <br> Describe touristic places in Colombia and elsewhere."
 	},
 	{
 		"id": "05",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand announcements of events, vacation plans, touristic locations and travel specials. <br> Understand a description of a touristic location."
+	},
+	{
+		"id": "05",
+		"titulo" : "Writing",
+		"contenido" : "Write an e-mail telling a friend about your weekend or vacation plans, or social events. <br> Write your friend an e-mail inviting them to a social event. <br> Write a description of a tourist  destination in Colombia, touristic or historic site or location."
+	},
+	{
+		"id": "06",
+		"titulo" : "Vocabulary",
+		"contenido" : "Food Clothing (recycle) Common household items Types of stores. <br>Vocab for size, price, quality. <br>Vocab for sales, discounts. <br>Numbers and prices."
 	},
 	{
 		"id": "06",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Singular and plural nouns Count / non-count nouns Comparatives."
 	},
 	{
 		"id": "06",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "How much is it? How much does it cost? <br> Do you have any….? I need some…. <br> It’s (really / kind of) expensive. It’s (really / kind of) cheap. <br> That’s too much. Is there a discount? <br> Thank you. You’re welcome."
 	},
 	{
 		"id": "06",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Consonant clusters? <br> Expensive?"
 	},
 	{
 		"id": "06",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand shopping interactions including requests for items, price and quality. <br> Understand conversations about different stores and best prices."
 	},
 	{
 		"id": "06",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Carry out exchanges in stores, requesting prices, items and discussing quality, size and price. <br> Describe stores and common items found in them, price, quality."
 	},
 	{
 		"id": "06",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand advertisements for common store articles including food, clothing and household items. <br> Understand a description of a recommended /not recommended store."
+	},
+	{
+		"id": "06",
+		"titulo" : "Writing",
+		"contenido" : "Write a brief description of something you want to buy. <br> Write an advertisement for a store or specific item. <br> Write a description of your favorite store / a store you recommend / don’t  recommend."
+	},
+	{
+		"id": "07",
+		"titulo" : "Vocabulary",
+		"contenido" : "Common establishments including restaurants, also places in small towns Places of interest in a city or small town. <br> Locations."
 	},
 	{
 		"id": "07",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Prepositions of distance and location. <br> On the corner across the street from next to down the street from. <br> It’s on ____ street."
 	},
 	{
 		"id": "07",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Asking for help Asking for locations. <br> Recommending a place. <br> Offering to help orient a person lost or asking for help. <br> Can I help you? <br> I’m sorry, I’m lost. Excuse me, do you know where the ___ is? <br> Is there a ___ near here / nearby?"
 	},
 	{
 		"id": "07",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Vowels (spelling of long and short?)"
 	},
 	{
 		"id": "07",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand descriptions of common establishments and places of interest, and their location in a city. <br> Understand conversations about locations in a city or small town, common establishments, ecommendations of places."
 	},
 	{
 		"id": "07",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Exchange information about common establishments and places of interest in your city, and their location. <br> Request information on locations, ask for help when traveling. <br> Recommend a place to a person requesting help (a good restaurant, an inexpensive store)."
 	},
 	{
 		"id": "07",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand short descriptions of common establishments and their location in a city, from a phone guide, tourist brochure, or other. <br> Understand ecommendations of places in a city or small town."
+	},
+	{
+		"id": "07",
+		"titulo" : "Writing",
+		"contenido" : "Write a short description of a place of interest in your city, or a favorite establishment and its location."
+	},
+	{
+		"id": "08",
+		"titulo" : "Vocabulary",
+		"contenido" : "Asking for and following directions. <br> Common establishments (recycle). <br> Transportation in a city or small town bus taxi car driving subway / metro. <br> Roads and driving. <br> Traffic drive fast drive slow bad driver good driver dangerous safe."
 	},
 	{
 		"id": "08",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Directions. <br> Adverbs of direction right, left, straight ahead. <br> Discourse markers, first, next. <br> Prepositions of place."
 	},
 	{
 		"id": "08",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Asking for directions Giving directions Describing locations in a city. <br> Describing different  methods of transportation. <br> Take a bus / taxi. <br> Drive / go by car / take your car."
 	},
 	{
 		"id": "08",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Sound-spelling patterns -ight."
 	},
 	{
 		"id": "08",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand and follow directions to a specific place in a city. <br> Use a city map to follow directions. <br> Understand conversations about taking transportation in a city or small town."
 	},
 	{
 		"id": "08",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Give directions to a location in a city. <br> Use a city map to give directions. <br> Ask about transportation (how to get places) in a city or small town."
 	},
 	{
 		"id": "08",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand and follow short, written directions."
+	},
+	{
+		"id": "08",
+		"titulo" : "Writing",
+		"contenido" : "Write an e-mail to a friend or acquaintance giving short, written directions to a location in your city."
+	},
+	{
+		"id": "09",
+		"titulo" : "Vocabulary",
+		"contenido" : "Methods of transportation intercity. <br> Basic travel vocabulary ticket departure /  arrival time one way round trip. <br> Collocations with take + method of transportation. <br> Take a bus / train / plane. <br> Go by car."
 	},
 	{
 		"id": "09",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Question formation with Wh-do and Do related to transportation."
 	},
 	{
 		"id": "09",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Asking about transportation, schedules, prices, categories of travel. <br> How do you get to ….? How can I get to…? <br> Is this the … to..? <br> What time is the bus to ….? <br> How much is the … to …?."
 	},
 	{
 		"id": "09",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : ""
 	},
 	{
 		"id": "09",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand conversations and requests for information regarding transportation."
 	},
 	{
 		"id": "09",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Ask for and give information about travel and transportation."
 	},
 	{
 		"id": "09",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand travel schedules and itineraries, bus and train schedules, destinations and categories of transportation."
+	},
+	{
+		"id": "09",
+		"titulo" : "Writing",
+		"contenido" : "Write an e-mail requesting a ticket Write an e-mail to a friend giving travel itinerary, arrival and departure times."
+	},
+	{
+		"id": "10",
+		"titulo" : "Vocabulary",
+		"contenido" : "Habits and routines Lifestyles Schedules. <br> Daily routines get up go to work get home go to sleep. <br> Healthy / unhealthy habits go to the gym exercise drink alcohol party stay out late free time relax spend time with family."
 	},
 	{
 		"id": "10",
 		"titulo" : "Structures",
-		"contenido" : "TTTTTTTTTTTTTTTTTTLLLLLLLLLLLLLL"
+		"contenido" : "Adverbs of frequency always sometimes never often rarely usually. <br> Placement of frequency adverbs. <br> Other time expressions? early late. <br> Adverbs of amount / degree too much, not enough. <br> He works too much She doesn’t get enough sleep."
 	},
 	{
 		"id": "10",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "I like to… for routines and habits. <br> Simple present for routines and habits with frequency adverbs. <br> You don’t …. enough. <br> You… too much."
 	},
 	{
 		"id": "10",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Sound-spelling patterns - ough."
 	},
 	{
 		"id": "10",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand conversations about habits, routines, lifestyles and schedules. <br> Understand conversations about healthy / unhealthy lifestyles and habits."
 	},
 	{
 		"id": "10",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Describe your habits, routines, lifestyle and schedule during the week and on the weekends. <br> Discuss frequency of healthy and unhealthy habits."
 	},
 	{
 		"id": "10",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand an introductory forum in a web course, describing people’s lifestyles, habits, routines and schedules. <br> Understand a short web article or survey about healthy / unhealthy habits and lifestyle."
+	},
+	{
+		"id": "10",
+		"titulo" : "Writing",
+		"contenido" : "Write an entry in an introductory web forum describing your lifestyle, habits, routines and schedule. <br> Write a description of your healthy / unhealthy lifestyle and habits."
+	},
+	{
+		"id": "11",
+		"titulo" : "Vocabulary",
+		"contenido" : "After-work and –school routines and activities. <br> Past tense of common free time activities and verbs (recycle from Starter – see glossary)."
 	},
 	{
 		"id": "11",
 		"titulo" : "Structures",
-		"contenido" : "XXXXXXXXXXXXXXXXXXX"
+		"contenido" : "Simple past common verbs. <br> Questions with simple past. <br> What did you do last night / after work / after school? <br> Where were you? <br> Did you…? <br> Affirmative and negative answers."
 	},
 	{
 		"id": "11",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Social conversations. <br> What did you do last night? Did you watch … Did you do the homework? Did you go …? Did you see….? Did you get on internet? Did you go to the gym? <br> Yes, I did. I went after work. <br> No I didn’t. I went shopping."
 	},
 	{
 		"id": "11",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Pronunciation of past tense –ed verbs."
 	},
 	{
 		"id": "11",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand everyday conversations about activities the previous day after work or school. <br> Understand where people went, what they did and didn’t do the previous day or evening."
 	},
 	{
 		"id": "11",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Describe your after-work or after-school activities the previous day. <br> Answer questions about your previous day’s / evening’s activities."
 	},
 	{
 		"id": "11",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand a brief text message, twitter posting or e-mail re: previous day’s activities."
+	},
+	{
+		"id": "11",
+		"titulo" : "Writing",
+		"contenido" : "Write a brief text message, twitter post or e-mail about previous day’s activities."
+	},
+	{
+		"id": "12",
+		"titulo" : "Vocabulary",
+		"contenido" : "Events in the past Anecdotes Adverbs of time Last week Yesterday Last month Last year Two years ago A long time ago. <br> When I was a child…"
 	},
 	{
 		"id": "12",
 		"titulo" : "Structures",
-		"contenido" : "ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ"
+		"contenido" : "Simple past. <br> Discourse markers for describing events."
 	},
 	{
 		"id": "12",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "What happened?"
 	},
 	{
 		"id": "12",
 		"titulo" : "Pronunciation",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Past-tense –ed verbs."
 	},
 	{
 		"id": "12",
 		"titulo" : "Listening",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand brief anecdotes and descriptions of experiences and events in the past."
 	},
 	{
 		"id": "12",
 		"titulo" : "Speaking",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Describe a past experience. <br> Narrate an anecdote or past experience."
 	},
 	{
 		"id": "12",
 		"titulo" : "Reading",
-		"contenido" : "TTTTTTTTTTTTTTTTTT"
+		"contenido" : "Understand an e-mail, letter or blog post describing an anecdote, event or experience in the past."
+	},
+	{
+		"id": "12",
+		"titulo" : "Writing",
+		"contenido" : "Write an e-mail, letter or blog post describing an anecdote, event or experience in the past."
 	}
 ]

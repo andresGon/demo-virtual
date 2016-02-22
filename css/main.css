@@ -1688,6 +1688,9 @@ h2 {
   margin-top: 20px;
   text-shadow: 2px 2px 2px #212121;
 }
+.wrapScope .levelLat .btnSel {
+  opacity: 1;
+}
 .wrapScope .levelLat a {
   display: block;
   text-decoration: none;
@@ -1703,7 +1706,8 @@ h2 {
   background-image: url(../img/bgBtnLev.svg);
   letter-spacing: -2px;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
-  opacity: 0.8;
+  opacity: 0.6;
+  cursor: pointer;
 }
 .wrapScope .levelLat a span {
   font-size: 14px;

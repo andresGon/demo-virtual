@@ -11,6 +11,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
                         $scope.unitB1 = 'one';
                         $scope.unitB1plus = 'one';
                         $scope.showA1 = true;
+			$scope.tab = 1;
                         // botones de niveles
                         $scope.showBtnA1 = function() {
                                 $scope.showA1 = true;
@@ -18,6 +19,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
                                 $scope.showA2plus = false;
                                 $scope.showB1 = false;
                                 $scope.showB1plus = false;
+				$scope.tab = 1;
                         };
                         $scope.showBtnA2 = function() {
                                 $scope.showA1 = false;
@@ -25,6 +27,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
                                 $scope.showA2plus = false;
                                 $scope.showB1 = false;
                                 $scope.showB1plus = false;
+				$scope.tab = 2;
                         };
                         $scope.showBtnA2plus = function() {
                                 $scope.showA1 = false;
@@ -32,6 +35,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
                                 $scope.showA2plus = true;
                                 $scope.showB1 = false;
                                 $scope.showB1plus = false;
+				$scope.tab = 3;
                         };
 
                         $scope.showBtnB1 = function() {
@@ -40,6 +44,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
                                 $scope.showA2plus = false;
                                 $scope.showB1 = true;
                                 $scope.showB1plus = false;
+				$scope.tab = 4;
                         };
                         $scope.showBtnB1plus = function() {
                                 $scope.showA1 = false;
@@ -47,6 +52,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
                                 $scope.showA2plus = false;
                                 $scope.showB1 = false;
                                 $scope.showB1plus = true;
+				$scope.tab = 5;
                         };
 
 

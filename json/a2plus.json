@@ -1,82 +1,482 @@
 [
 	{
 		"id": "01",
-		"titulo" : "Vocabulary A22222 plussss",
-		"contenido" : "Numbers 1-20 The alphabet Name ID Number Telephone number e-mail."
+		"titulo" : "Vocabulary",
+		"contenido" : "Family and friends (re-cycled) Extended family (aunt, uncle, cousin) Parties and other occasions (weddings, graduations, birthdays, housewarmings, informal gatherings, Food and drink Gifts Party music (many different genre)."
 	},
 	{
 		"id": "01",
 		"titulo" : "Structures",
-		"contenido" : "What’s Personal pronoun my."
+		"contenido" : "Formal / informal offerings and invitations. <br /> Some / any. <br /> Count / noncount nouns for food and drink."
 	},
 	{
 		"id": "01",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "Greetings Basic small talk Leave-taking Formal / informal language Please / Thank you  What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? What’s your e-mail?"
+		"contenido" : "Invitations Offers of food and drink Accepting / declining offers and invitations. <br /> Would you like some / a / any ____________? <br /> Do you want some / a / any ____________? <br /> Would you like to _____? Do you want to ______? <br /> I’m having a _____. I’m having a _____ party. I’m having a few friends over. <br /> It was great. I had a great time. It was great to see you."
 	},
 	{
 		"id": "01",
 		"titulo" : "Pronunciation",
-		"contenido" : "/aI/ Hi, Bye, I’m fine."
+		"contenido" : "Reductions? <br /><br /> D’ya want? <br /><br /> Sentence focus? <br /><br /> It was GREAT."
 	},
 	{
 		"id": "01",
 		"titulo" : "Listening",
-		"contenido" : "Understand basic greetings and leave-takings, including level of formality.  Understand basic small talk and turn-taking. Understand requests for basic personal information. Understand letters and numbers."
+		"contenido" : "Understand conversations about giving, going to and inviting people to parties. <br /> <br /> Understand details of invitations. <br /> <br /> Understand whether a person accepts or declines an invitation or offering. <br /> <br /> Understand common foods and drinks and offerings of food and drink."
 	},
 	{
 		"id": "01",
 		"titulo" : "Speaking",
-		"contenido" : "Carry out basic greetings and leave-takings with different levels of formality. Carry out basic small talk and turn-taking. Answer requests for basic personal information. Spell names and give phone numbers, e-mail addresses."
+		"contenido" : "Give and accept or decline offers and invitations to a variety of social occasions. <br> <br> Offer food and drink. <br> <br> Talk about a party. <br> <br> Thank someone for an invitation, for giving a party. <br> <br> Talk about who to invite to a party. <br> <br> Talk about what music to play at the party. (?)"
 	},
 	{
 		"id": "01",
 		"titulo" : "Reading",
-		"contenido" : "Understand very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Read written party / wedding / graduation invitations. <br> <br> Read a description of a party or social occasion, written afterwards. <br> <br> Read a short newspaper item from the social pages, reporting on a socialite event in town and who was there. (?)"
 	},
 	{
 		"id": "01",
 		"titulo" : "Writing",
-		"contenido" : "Complete very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Write an invitation to a special occasion. <br> <br> Answer an e-mail accepting and declining an invitation to a special occasion. <br> <br> Write a description / post of a special occasion afterwards."
 	},
 	{
 		"id": "02",
-		"titulo" : "Vocabulary A2",
-		"contenido" : "Numbers 1-20 The alphabet Name ID Number Telephone number e-mail."
+		"titulo" : "Vocabulary",
+		"contenido" : "Extended family (in-laws, step- , half-, ex-) Friends and acquaintances (recycle, focus on “significant others”) Personality adjectives (including negative) Physical descriptions (taste in mates, attractiveness) Occupations Things you like / dislike about a person Things in common. <br><br> Terms of endearment honey sweetie sweetheart baby…."
 	},
 	{
 		"id": "02",
-		"titulo" : "Structures a2",
-		"contenido" : "What’s Personal pronoun my."
+		"titulo" : "Structures",
+		"contenido" : "too + adjective not + adjective + enough. <br><br> Object pronouns. <br><br> Anyone / someone <br><br> Simple present Simple past / used to. <br><br> Verbs to describe common disputed actions in couples: She cheated on him. He spends all his money on_____. They fight."
 	},
 	{
 		"id": "02",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "Greetings Basic small talk Leave-taking Formal / informal language Please / Thank you  What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? What’s your e-mail?"
+		"contenido" : "What do you like about him / her? <br><br> Are you going out? Are you seeing anyone? I’m seeing someone. <br><br> We get along. <br><br> We don’t get along. <br><br> I like _____________. I don’t like ___________. <br><br> S/he’s too __________. S/he’s not ____ enough. <br><br> S/he __________. S/he doesn’t ________."
 	},
 	{
 		"id": "02",
 		"titulo" : "Pronunciation",
-		"contenido" : "/aI/ Hi, Bye, I’m fine."
+		"contenido" : ""
 	},
 	{
 		"id": "02",
 		"titulo" : "Listening",
-		"contenido" : "Understand basic greetings and leave-takings, including level of formality.  Understand basic small talk and turn-taking. Understand requests for basic personal information. Understand letters and numbers."
+		"contenido" : "Understand conversations about relationships (friends, family, loved ones, romantic / significant relationships). <br><br> Understand conversations about incompatibility in relationships, things people like / don’t like about others. <br><br> Understand descriptions of people (physical, personality, occupation, likes / dislikes, potential as a mate)."
 	},
 	{
 		"id": "02",
 		"titulo" : "Speaking",
-		"contenido" : "Carry out basic greetings and leave-takings with different levels of formality. Carry out basic small talk and turn-taking. Answer requests for basic personal information. Spell names and give phone numbers, e-mail addresses."
+		"contenido" : "Describe a person you like or don’t like. <br><br> Describe what you like or don’t like about someone. <br><br> Relay others’ descriptions of people they like / don’t like and what / why. <br><br> Describe your ideal mate / attributes you find attractive in general or about someone specific. <br><br> Describe common incompatibilities / problems in relationships."
 	},
 	{
 		"id": "02",
 		"titulo" : "Reading",
-		"contenido" : "Understand very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Read a confessional e-mail or blog about an ex-. <br><br> Read about a relationship incident, situation or issue."
 	},
 	{
 		"id": "02",
 		"titulo" : "Writing",
-		"contenido" : "Complete very basic forms and registration questionnaires for websites, etc."
+		"contenido" : ""
+	},
+	{
+		"id": "03",
+		"titulo" : "Vocabulary",
+		"contenido" : "Places to live (house, apartment, gated community) Furniture Common household objects and appliances Household activities / chores / housework."
+	},
+	{
+		"id": "03",
+		"titulo" : "Structures",
+		"contenido" : "There is / there are. <br><br> Prepositions of place. <br><br> Present progressive for actions at the moment in the house. <br><br> Simple present for routine household activities / chores / housework."
+	},
+	{
+		"id": "03",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "I like to live in _________. I live in _____. I’d like to live in _______. <br><br> There’s a ________ in the _____. <br><br> The _______ is on / under / on top of / next to / the _______. <br><br> I always do the dishes. I make my bed every day. I never clean my room. <br><br> My husband cooks. I wash the dishes"
+	},
+	{
+		"id": "03",
+		"titulo" : "Pronunciation",
+		"contenido" : "Syllable stress for rooms (?) <br><br> BEDroom. <br><br> BATHroom. <br><br> DINing room. <br><br> LIVing room."
+	},
+	{
+		"id": "03",
+		"titulo" : "Listening",
+		"contenido" : "Understand descriptions of places to live. <br /> <br /> Understand people talking about where they live and what kind of place they’d like to live. <br /> <br /> Understand descriptions of rooms and furniture. Listen and label a floor plan. <br /> <br /> Understand conversations about present activities in the house. <br /> <br /> Understand conversations about common household chores."
+	},
+	{
+		"id": "03",
+		"titulo" : "Speaking",
+		"contenido" : "Describe places to live, and preferences about living in different kinds of places (apartment, house, gated community, etc.) <br><br> Describe rooms and furniture in the house. <br><br> Carry out conversations about current activities in the house. <br><br> Talk about routines involving household chores."
+	},
+	{
+		"id": "03",
+		"titulo" : "Reading",
+		"contenido" : "Understand basic descriptions of houses and apartments from construction brochures. <br><br> Label rooms of a house in a floor plan and distribute furniture based on a reading. <br><br> Understand a description of a person’s preferences about where they live. <br><br> Understand a description of a person’s routine of household chores."
+	},
+	{
+		"id": "03",
+		"titulo" : "Writing",
+		"contenido" : "Write a basic description of where you live and where you would like to live. <br><br> Draw and label a floor plan of your apartment or house. <br><br> Write a blog post about division of household chores in your house."
+	},
+	{
+		"id": "04",
+		"titulo" : "Vocabulary",
+		"contenido" : "Clothing (coats, jackets, seasonal weather, gloves, scarf, umbrella, boots) Weather Seasons Climate Bad weather Plans Activities."
+	},
+	{
+		"id": "04",
+		"titulo" : "Structures",
+		"contenido" : "1st conditional? <br><br> Imperatives <br><br> Modals expressing possibility <br><br> may might Contrast going to + ________ with might ______. <br><br> It might rain. It’s going to rain."
+	},
+	{
+		"id": "04",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "It might rain / be cold / be hot _____________. __________ is really hot/ cold / has a mild climate. In ________ the weather is hot / cool / clothes. It’s cold (there) in the winter. It’s hot (there) in the summer. It has a mild climate. Where a jacket. It might rain. <br> <br> Bring an umbrella. <br> <br> I don’t think we can go _______. It might rain / It’s going to rain. <br> <br> Let’s go ______."
+	},
+	{
+		"id": "04",
+		"titulo" : "Pronunciation",
+		"contenido" : "?"
+	},
+	{
+		"id": "04",
+		"titulo" : "Listening",
+		"contenido" : "Understand descriptions of clothing for different types of weather. <br> <br> Understand conversations about plans and activities depending on the weather. <br> <br> Understand conversations about what kind of clothes to take on trips to different places in Colombia, and to places with different seasons."
+	},
+	{
+		"id": "04",
+		"titulo" : "Speaking",
+		"contenido" : "Describe appropriate clothing for different types of weather, climate and season. <br> <br> Talk about plans and activities depending on the weather."
+	},
+	{
+		"id": "04",
+		"titulo" : "Reading",
+		"contenido" : "Understand descriptions of different kinds of clothing for different types of weather, climate and season. <br> <br> Understand clothing recommendations for different kinds of activities / travel (from a travel webpage or similar)."
+	},
+	{
+		"id": "04",
+		"titulo" : "Writing",
+		"contenido" : "Write a recommendation for what kind of clothing to bring / wear depending on plans / activities, and destination (climate, season) for a webpage or similar."
+	},
+	{
+		"id": "05",
+		"titulo" : "Vocabulary",
+		"contenido" : "Shopping Household items and appliances Supermarkets Sales / discounts / special offers Buying on credit Advertisements an circulars Money / numbers / percentages Adjectives comparing products, brands and stores (more / less expensive, cheaper, better, more reliable)."
+	},
+	{
+		"id": "05",
+		"titulo" : "Structures",
+		"contenido" : "Comparative adjectives with –er with more / less Imperatives Simple past tense recycled Irregular verbs buy / bought, get / got, find / found."
+	},
+	{
+		"id": "05",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "On sale 50% discount Buy one get one free Clearance Low monthly payments."
+	},
+	{
+		"id": "05",
+		"titulo" : "Pronunciation",
+		"contenido" : "-er ending Vowels and spelling /ɔ/ (bought)?"
+	},
+	{
+		"id": "05",
+		"titulo" : "Listening",
+		"contenido" : "Understand conversations about recent purchases. <br> <br> Understand conversations comparing brands, stores and products. <br> <br> Understand spoken advertisements on radio and television about products, brands, sales, discounts, and buying on credit."
+	},
+	{
+		"id": "05",
+		"titulo" : "Speaking",
+		"contenido" : "Talk about recent purchases. <br> <br> Compare brands, products and stores. <br> <br> Recommend a store, brand or product. <br> <br> Describe payment of a product, buying on credit."
+	},
+	{
+		"id": "05",
+		"titulo" : "Reading",
+		"contenido" : "Understand advertisements and circulars promoting stores, products, sales and discounts. <br> <br> Understand a recommendation of a product, brand or store in a consumer webpage or blog."
+	},
+	{
+		"id": "05",
+		"titulo" : "Writing",
+		"contenido" : "Write an advertisement for a product, including information on sales, discounts and credit options. <br> <br> Write a recommendation of a product, brand or store in a consumer webpage or blog."
+	},
+	{
+		"id": "06",
+		"titulo" : "Vocabulary",
+		"contenido" : "Public figures Celebrities Politics Current events Current scandals Social pages Famous people (athletes, models, actors/ actresses, politicians, socialites, musicians, entertainers). <br> <br> More occupations vocab to include public figures, entertainment, sports, designers, models, etc."
+	},
+	{
+		"id": "06",
+		"titulo" : "Structures",
+		"contenido" : "Comparative and superlative adjectives, including regular and irregular (best, worst), -est ending and most / least. <br> <br> Mixing tenses to talk about past, present and future actions. <br> <br> More irregular verbs in past (steal / stole) as needed. <br> <br> Past progressive?"
+	},
+	{
+		"id": "06",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Did you hear about…? <br> <br> I don’t believe that. <br> <br> I can’t believe it."
+	},
+	{
+		"id": "06",
+		"titulo" : "Pronunciation",
+		"contenido" : "Sentence focus showing surprise or emphasis."
+	},
+	{
+		"id": "06",
+		"titulo" : "Listening",
+		"contenido" : "Understand conversations and brief news reports about public figures, their recent activities and scandals."
+	},
+	{
+		"id": "06",
+		"titulo" : "Speaking",
+		"contenido" : "Talk about public figures, their recent activities and scandals."
+	},
+	{
+		"id": "06",
+		"titulo" : "Reading",
+		"contenido" : "Understand brief web items and reports about public figures, their recent activities and scandals."
+	},
+	{
+		"id": "06",
+		"titulo" : "Writing",
+		"contenido" : "Write a brief item to post in a webpage or blog giving your opinion about a public figure, his / her most recent activities or scandals."
+	},
+	{
+		"id": "07",
+		"titulo" : "Vocabulary",
+		"contenido" : "Common establishments in cities and towns (recycle + new). Types of errands: go to the bank, doctor’s appointment, go grocery shopping, run an errand, pick up something / someone, take my … to the …., go to my …’s house, go pick up my..."
+	},
+	{
+		"id": "07",
+		"titulo" : "Structures",
+		"contenido" : "Obligation with have to, need to. <br> <br> I’d like to… <br> <br> Requests with Can or Could Could you do me a favor?"
+	},
+	{
+		"id": "07",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Run an errand I have to run an errand. <br> <br> Social language for errands: Excuse me, I need to … Hello, I need to… Can I help you? Can you help me? I have a question Social language for asking for favors I’m sorry, I need Could you do me a favor, please? Can you help me please? Hey, I need a favor."
+	},
+	{
+		"id": "07",
+		"titulo" : "Pronunciation",
+		"contenido" : "Reductions hafta, needta, wanna, couldya, knyou."
+	},
+	{
+		"id": "07",
+		"titulo" : "Listening",
+		"contenido" : "Understand common service encounters when running errands. <br> <br> Understand conversations about errands and other social obligations. <br> <br> Understand conversations asking for favors and giving excuses."
+	},
+	{
+		"id": "07",
+		"titulo" : "Speaking",
+		"contenido" : "Talk about the day’s obligations and errands. <br> <br> Ask for favors. <br> <br> Give excuses or accept to grant favors. <br> <br> Carry out social language politely."
+	},
+	{
+		"id": "07",
+		"titulo" : "Reading",
+		"contenido" : "Understand an e-mail describing the day’s obligations and errands. <br> <br> Understand short messages, texts about the day’s errands and obligations."
+	},
+	{
+		"id": "07",
+		"titulo" : "Writing",
+		"contenido" : "Write a brief message to a person regarding one or more of the day’s obligations or errands. <br> <br> Make arrangements to do a favor for someone or give and excuse for why not in a brief text message."
+	},
+	{
+		"id": "08",
+		"titulo" : "Vocabulary",
+		"contenido" : "Parts of the body Ailments / complaints. <br> <br> Headache toothache stomachache backache. <br> <br> A cold the flu a virus I’m sick I’m not feeling well My ____ hurts. <br> <br> Healthy lifestyles Recycle L1 unit 10 more vocab yoga stress-free manage your stress personal time relax regular exercise. <br> <br> Hygiene brush your teeth take a shower wash your hair. <br> <br> Dr’s Office. <br> <br> Drugstore."
+	},
+	{
+		"id": "08",
+		"titulo" : "Structures",
+		"contenido" : "Advice with should. <br> <br> Present perfect. <br> <br> How long have you had this pain / these symtoms this problem."
+	},
+	{
+		"id": "08",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "How do you feel? What’s the matter? <br> <br> I have a …. I have the … <br> <br> My … hurts"
+	},
+	{
+		"id": "08",
+		"titulo" : "Pronunciation",
+		"contenido" : "ache = /k/"
+	},
+	{
+		"id": "08",
+		"titulo" : "Listening",
+		"contenido" : "Understand informal conversations about common health conditions and ailments. <br> <br> Understand conversations in a doctor’s office explaining common ailments. <br> <br> Understand conversations about healthy lifestyles and habits, including people giving advice."
+	},
+	{
+		"id": "08",
+		"titulo" : "Speaking",
+		"contenido" : "Talk about common ailments and problems with family, friends and acquaintances. <br> <br> Explain common ailments in a doctor’s office or medical service. <br> <br> Talk about healthy lifestyles and habits. Give advice to people."
+	},
+	{
+		"id": "08",
+		"titulo" : "Reading",
+		"contenido" : "Understand descriptions from magazines, newspapers, websites and advertisements about common health ailments and problems. <br> <br> Understand brief texts on websites about health and healthy living."
+	},
+	{
+		"id": "08",
+		"titulo" : "Writing",
+		"contenido" : "Write a short description of an ailment or problem in an e-mail to a friend. <br> <br> Write a short e-mail giving advice to a friend on a health issue. <br> <br> Write a short text about a healthy lifestyle."
+	},
+	{
+		"id": "09",
+		"titulo" : "Vocabulary",
+		"contenido" : "Feelings Events and experiences Anecdotes Common personal problems (relationships, money, work, family)."
+	},
+	{
+		"id": "09",
+		"titulo" : "Structures",
+		"contenido" : "Simple past recycle verbs in past, add more. <br> <br> Past progressive. <br> <br> Present perfect?"
+	},
+	{
+		"id": "09",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "How do you feel? How are you? How are you doing? <br> <br> What’s wrong? What happened? How long have you had this problem? What did s/he do? <br> <br> It’s nothing. I have a problem."
+	},
+	{
+		"id": "09",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "09",
+		"titulo" : "Listening",
+		"contenido" : "Understand conversations about common personal or emotional problems."
+	},
+	{
+		"id": "09",
+		"titulo" : "Speaking",
+		"contenido" : "Talk about personal problems, ask about other’s lives and personal problems."
+	},
+	{
+		"id": "09",
+		"titulo" : "Reading",
+		"contenido" : "Understand an e-mail about a common personal or emotional problem. <br> <br> Understand a blog or website entry about a common personal or emotional problem."
+	},
+	{
+		"id": "09",
+		"titulo" : "Writing",
+		"contenido" : "Write a family member or friend about a personal or emotional problem. <br> <br> Write a brief post in a website or blog either describing a personal problem or giving advice to someone."
+	},
+	{
+		"id": "10",
+		"titulo" : "Vocabulary",
+		"contenido" : "Accidents Incidents Bad luck Good luck Anecdotes Reacting to news."
+	},
+	{
+		"id": "10",
+		"titulo" : "Structures",
+		"contenido" : "Past progressive and simple past."
+	},
+	{
+		"id": "10",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "You won’t believe what happened. What happened? I can’t believe it. That’s amazing. That’s too bad."
+	},
+	{
+		"id": "10",
+		"titulo" : "Pronunciation",
+		"contenido" : "-ed endings past verbs spelling with –ed / - ing."
+	},
+	{
+		"id": "10",
+		"titulo" : "Listening",
+		"contenido" : "Understand anecdotes and stories of accidents, incidents and other events."
+	},
+	{
+		"id": "10",
+		"titulo" : "Speaking",
+		"contenido" : "Describe a past event, accident, incident or occurrence."
+	},
+	{
+		"id": "10",
+		"titulo" : "Reading",
+		"contenido" : "Understand a short description of a past event, anecdote, incident or accident in an e-mail or posted on a website or blog."
+	},
+	{
+		"id": "10",
+		"titulo" : "Writing",
+		"contenido" : "Write a short description of a past event, accident, incident or occurrence in an e-mail or posting to a website or blog."
+	},
+	{
+		"id": "11",
+		"titulo" : "Vocabulary",
+		"contenido" : "Sports (recycle) add more Sports equipment, clothing and gear Athletes / teams Famous athletes Sporting events Summer / Winter Olympics World Cup World Series Super Bowl Famous sports stories or events."
+	},
+	{
+		"id": "11",
+		"titulo" : "Structures",
+		"contenido" : "Comparatives and superlative adjectives and adverbs. <br> <br> With –er / ly and less / more. <br> <br> Ordinal numbers. <br> <br> Mixed tenses, past, present and future to describe people and events."
+	},
+	{
+		"id": "11",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Top 10 Number 1 Firs <br> <br> They beat… It was an upset. <br> <br> Who won the game yesterday / last night / earlier / today? <br> <br> How did they play? Who’s winning? What’s the score?"
+	},
+	{
+		"id": "11",
+		"titulo" : "Pronunciation",
+		"contenido" : "Syllable stress with 2-word nouns compound nouns, noun-noun combinations."
+	},
+	{
+		"id": "11",
+		"titulo" : "Listening",
+		"contenido" : "Understand announcements and brief radio and television commentary about sports events, athletes moments and achievements. <br><br> Understand conversations about sports events, athletes, teams, games, outcomes, great plays, upsets, etc."
+	},
+	{
+		"id": "11",
+		"titulo" : "Speaking",
+		"contenido" : "Talk about favorite athletes and teams. <br> <br> Talk about sports events, games, moments and outcomes. <br> <br> Give a short commentary or announcement about a sports event."
+	},
+	{
+		"id": "11",
+		"titulo" : "Reading",
+		"contenido" : "Understand brief web articles about athletes, teams, sports events, biographies of famous athletes. <br> <br> Understand blog entries about sports. <br> <br> Understand advertisements for sports equipment and gear."
+	},
+	{
+		"id": "11",
+		"titulo" : "Writing",
+		"contenido" : "Write a brief article about a favorite athlete, sport, team, or sports event."
+	},
+	{
+		"id": "12",
+		"titulo" : "Vocabulary",
+		"contenido" : "Methods of transportation and basic travel vocab (recycle Level 1). <br> <br> International travel Train Commuter vs. passenger trains Train systems in different countries. <br> <br> Boats Planes Trains. <br> <br> Reservations Airport procedures, security. <br> <br> Visas / passports."
+	},
+	{
+		"id": "12",
+		"titulo" : "Structures",
+		"contenido" : "Question formation – review. <br> <br> What time How long What day How much."
+	},
+	{
+		"id": "12",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Requests Ask for clarification Ask for help."
+	},
+	{
+		"id": "12",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "12",
+		"titulo" : "Listening",
+		"contenido" : "Understand exchanges between passengers and travel or ticket agents, security personne."
+	},
+	{
+		"id": "12",
+		"titulo" : "Speaking",
+		"contenido" : "Ask about travel information and make reservations. <br> <br> Follow instructions and answer questions in airports."
+	},
+	{
+		"id": "12",
+		"titulo" : "Reading",
+		"contenido" : "Understand arrival and departure screens at airports and train stations. <br> <br> Understand a travel itinerary and information. <br> <br> Understand security and other written information. <br> <br> Understand pricing information at train stations."
+	},
+	{
+		"id": "12",
+		"titulo" : "Writing",
+		"contenido" : "Fill out a visa application form. <br> <br> Write an e-mail to a friend informing about a trip and arrival time."
 	}
 ]
