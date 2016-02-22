@@ -1,6 +1,6 @@
 
 
-var nameSpace = angular.module("appScope", []);
+var nameSpace = angular.module("appScope", ['ngSanitize']);
 
 
 nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
@@ -49,6 +49,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
                                 $scope.showB1plus = true;
                         };
 
+
                         //
 			$http.get('../json/a1.json').success (function(data){
 				$scope.datos = data;
@@ -65,6 +66,7 @@ nameSpace.controller("appController", ['$scope','$http', function($scope, $http)
 			$http.get('../json/b1plus.json').success (function(dataB1plus){
 				$scope.datosB1plus = dataB1plus;
 		        });
+
 
 		}]
 );

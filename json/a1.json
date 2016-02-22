@@ -12,7 +12,7 @@
 	{
 		"id": "01",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "Greetings Basic small talk Leave-taking Formal / informal language Please / Thank you  What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? What’s your e-mail?"
+		"contenido" : "Greetings Basic small talk Leave-taking Formal / informal language Please / Thank you  <br> What’s your name? Can you spell that? What’s your ID number? What’s your telephone number?What’s your e-mail?"
 	},
 	{
 		"id": "01",
@@ -22,7 +22,7 @@
 	{
 		"id": "01",
 		"titulo" : "Listening",
-		"contenido" : "Understand basic greetings and leave-takings, including level of formality.  Understand basic small talk and turn-taking. Understand requests for basic personal information. Understand letters and numbers."
+		"contenido" : "Understand basic greetings and leave-takings, including level of formality.<br>  Understand basic small talk and turn-taking.<br> Understand requests for basic personal information. <br>Understand letters and numbers."
 	},
 	{
 		"id": "01",
@@ -41,42 +41,282 @@
 	},
 	{
 		"id": "02",
-		"titulo" : "Vocabulary A2",
-		"contenido" : "Numbers 1-20 The alphabet Name ID Number Telephone number e-mail."
+		"titulo" : "Vocabulary",
+		"contenido" : " Personal Information Occupations Interests Studies."
 	},
 	{
 		"id": "02",
-		"titulo" : "Structures a2",
-		"contenido" : "What’s Personal pronoun my."
+		"titulo" : "Structures",
+		"contenido" : "I’m an / a     S/he is a / an  <br>   I like …      I like to …<br>     I’m from… I live in…"
 	},
 	{
 		"id": "02",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "Greetings Basic small talk Leave-taking Formal / informal language Please / Thank you  What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? What’s your e-mail?"
+		"contenido" : "Basic personal information Small talk.  <br>  Where are you from? Where do you live? <br>What do you do? What do you like?"
 	},
 	{
 		"id": "02",
 		"titulo" : "Pronunciation",
-		"contenido" : "/aI/ Hi, Bye, I’m fine."
+		"contenido" : " Linking with an. <br>   Word stress occupations."
 	},
 	{
 		"id": "02",
 		"titulo" : "Listening",
-		"contenido" : "Understand basic greetings and leave-takings, including level of formality.  Understand basic small talk and turn-taking. Understand requests for basic personal information. Understand letters and numbers."
+		"contenido" : "Understand requests for personal information including occupation and interests."
 	},
 	{
 		"id": "02",
 		"titulo" : "Speaking",
-		"contenido" : "Carry out basic greetings and leave-takings with different levels of formality. Carry out basic small talk and turn-taking. Answer requests for basic personal information. Spell names and give phone numbers, e-mail addresses."
+		"contenido" : "Ask for personal information including occupation and interests."
 	},
 	{
 		"id": "02",
 		"titulo" : "Reading",
-		"contenido" : "Understand very basic forms and registration questionnaires for websites, etc."
+		"contenido" : " Understand very basic personal profiles from social networks or similar."
 	},
 	{
 		"id": "02",
 		"titulo" : "Writing",
-		"contenido" : "Complete very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Complete a very basic personal profile for a social network or  similar."
+	},
+	{
+		"id": "03",
+		"titulo" : "Vocabulary",
+		"contenido" : "Family Friends Age Numbers to 100 More occupations More interests and hobbies."
+	},
+	{
+		"id": "03",
+		"titulo" : "Structures",
+		"contenido" : " S/he’s a / an     How old are you? How old is s/he? <br>   S/he likes …     S/he likes to … <br> S/he’s from S/he lives in …"
+	},
+	{
+		"id": "03",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Basic personal information Small talk about friends and family. <br>Do you have any brothers or sisters?<br> What does s/he do?"
+	},
+	{
+		"id": "03",
+		"titulo" : "Pronunciation",
+		"contenido" : "/^/ = mother  brother  husband son. <br>More linking with an."
+	},
+	{
+		"id": "03",
+		"titulo" : "Listening",
+		"contenido" : "Understand questions and conversations about friends and family."
+	},
+	{
+		"id": "03",
+		"titulo" : "Speaking",
+		"contenido" : "Carry out conversations and ask questions about friends and family."
+	},
+	{
+		"id": "03",
+		"titulo" : "Reading",
+		"contenido" : "Understand brief descriptions of friends and family."
+	},
+	{
+		"id": "03",
+		"titulo" : "Writing",
+		"contenido" : "Complete a brief description of an important friend or family member."
+	},
+	{
+		"id": "04",
+		"titulo" : "Vocabulary",
+		"contenido" : "More Interests Friends and Acquaintances Hobbies Sports Personal adjectives."
+	},
+	{
+		"id": "04",
+		"titulo" : "Structures",
+		"contenido" : "Verb to be with personal pronouns We, they.   <br>  Negatives.  <br>   I don’t like… I’m not… S/he doesn’t like… S/he’s not… They don’t like… They’re not…"},
+	{
+		"id": "04",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Simple conversations about other people.<br>     Who’s s/he? Who are they?  <br>   S/he live in … They live in…   <br>  S/he likes / doesn’t like… They like / don’t like…   <br> S/he’s /They’re.... S/he’s not… They’re not…."
+	},
+	{
+		"id": "04",
+		"titulo" : "Pronunciation",
+		"contenido" : "Word stress."
+	},
+	{
+		"id": "04",
+		"titulo" : "Listening",
+		"contenido" : "Understand short conversations about other people. <br>    Understand descriptions of people."
+	},
+	{
+		"id": "04",
+		"titulo" : "Speaking",
+		"contenido" : "Ask about and describe other people. <br>    Carry out brief conversations about acquaintances and friends."
+	},
+	{
+		"id": "04",
+		"titulo" : "Reading",
+		"contenido" : "Understand brief descriptions of peoples’ personalities, hobbies and interests."
+	},
+	{
+		"id": "04",
+		"titulo" : "Writing",
+		"contenido" : "Write a short description of an individual, his or her personality, hobbies and interests."
+	},
+	{
+		"id": "05",
+		"titulo" : "Vocabulary",
+		"contenido" : "Going out Events Activities Places Location Days of the week, dates and time."
+	},
+	{
+		"id": "05",
+		"titulo" : "Structures",
+		"contenido" : "Describing events and places with there’s / there are Specifying time and date with It’s at… It’s on…"},
+	{
+		"id": "05",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Invitations with Would you like to…?     Accepting and declining invitations.     Suggestions with Let’s…"
+	},
+	{
+		"id": "05",
+		"titulo" : "Pronunciation",
+		"contenido" : "Intonation and sentence stress using key words."
+	},
+	{
+		"id": "05",
+		"titulo" : "Listening",
+		"contenido" : "Understand invitations to events and places.     Understand times and dates."
+	},
+	{
+		"id": "05",
+		"titulo" : "Speaking",
+		"contenido" :  "Make suggestions and invitations to events and places. <br />   Accept or decline invitations and suggestions for going out."
+	},
+	{
+		"id": "05",
+		"titulo" : "Reading",
+		"contenido" : "Understand announcements of events."
+	},
+	{
+		"id": "05",
+		"titulo" : "Writing",
+		"contenido" : "Write an announcement of or invitation to an event."
+	},
+	{
+		"id": "06",
+		"titulo" : "Vocabulary",
+		"contenido" : "Possessions Clothing Style Physical appearance."
+	},
+	{
+		"id": "06",
+		"titulo" : "Structures",
+		"contenido" : "Verb have Possessive pronouns my, your, his and her."},
+	{
+		"id": "06",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "I like to wear…<br>I use…"
+	},
+	{
+		"id": "06",
+		"titulo" : "Pronunciation",
+		"contenido" : "Vowels /aI/, /I/, /e/"
+	},
+	{
+		"id": "06",
+		"titulo" : "Listening",
+		"contenido" : "Understand physical descriptions of people. <br> Understand descriptions of personal possessions and objects."
+	},
+	{
+		"id": "06",
+		"titulo" : "Speaking",
+		"contenido" : "Describe people’s style and physical appearance. <br> Describe personal possessions."
+	},
+	{
+		"id": "06",
+		"titulo" : "Reading",
+		"contenido" : "Understand brief descriptions from webpages about physical appearance."
+	},
+	{
+		"id": "06",
+		"titulo" : "Writing",
+		"contenido" : "Write a brief description of an individual’s physical appearance to match a picture."
+	},
+	{
+		"id": "07",
+		"titulo" : "Vocabulary",
+		"contenido" : "Everyday routines and activities Days of the week Times Making appointments."
+	},
+	{
+		"id": "07",
+		"titulo" : "Structures",
+		"contenido" : "Simple present Adverbs of frequency."},
+	{
+		"id": "07",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Are you busy?<br>Can you meet…? <br>I’m sorry, I have an appointment."
+	},
+	{
+		"id": "07",
+		"titulo" : "Pronunciation",
+		"contenido" : "Word stress."
+	},
+	{
+		"id": "07",
+		"titulo" : "Listening",
+		"contenido" : "Understand descriptions of routines, habits and activities. <br> Understand conversations about making appointments."
+	},
+	{
+		"id": "07",
+		"titulo" : "Speaking",
+		"contenido" : "Describe daily and weekly routines. <br> Interview a person about his or her daily and weekly routine. <br> Make on appointment."
+	},
+	{
+		"id": "07",
+		"titulo" : "Reading",
+		"contenido" : "Understand a weekly schedule. <br> Understand a brief description of a person’s daily and weekly routine."
+	},
+	{
+		"id": "07",
+		"titulo" : "Writing",
+		"contenido" : "Write about your daily and weekly routine. <br> Write and answer an e-mail about making an appointment."
+	},
+	{
+		"id": "08",
+		"titulo" : "Vocabulary",
+		"contenido" : "Free time activities. <br>Travel plans."
+	},
+	{
+		"id": "08",
+		"titulo" : "Structures",
+		"contenido" : "Present progressive for present activities and future plans."
+	},
+	{
+		"id": "08",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "What are you doing this weekend? <br> Where are you going on vacation?"
+	},
+	{
+		"id": "08",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "08",
+		"titulo" : "Listening",
+		"contenido" : "Understand conversations about present activities and future plans."
+	},
+	{
+		"id": "08",
+		"titulo" : "Speaking",
+		"contenido" : "Describe present activities and future plans."
+	},
+	{
+		"id": "08",
+		"titulo" : "Reading",
+		"contenido" : "Understand short descriptions of vacation plans."
+	},
+	{
+		"id": "08",
+		"titulo" : "Writing",
+		"contenido" : "Read and answer an email about weekend and vacation plans."
 	}
+
+
+
+
 ]

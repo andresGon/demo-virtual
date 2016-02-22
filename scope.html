@@ -19,6 +19,7 @@
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+        <script type="text/javascript" src="https://code.angularjs.org/1.5.0/angular-sanitize.js"></script>
         <script type="text/javascript" src="js/angularScope.js">
 
         </script>
@@ -131,6 +132,9 @@
                                                         <option value="tree">3 Family and Friends</option>
                                                         <option value="four">4 My Social Network</option>
                                                         <option value="five">5 My Community</option>
+                                                        <option value="six">6 Style and Lifestyle</option>
+                                                        <option value="seven">7 Routines</option>
+                                                        <option value="eight">8 Present and Future</option>
                                                 </select>
                                         </div>
 
@@ -139,13 +143,49 @@
                                                 <table class="tableA1" width="100%"  ng-show="unit1=='one'">
                                                           <tr ng-repeat="data in datos | filter: {id : 01} "  >
                                                                     <td width="20%">{{data.titulo}}</td>
-                                                                    <td width="80%"> {{data.contenido}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido" > </td>
                                                           </tr>
                                                 </table>
                                                 <table class="tableA1" width="100%"  ng-show="unit1=='two'">
                                                           <tr ng-repeat="data in datos | filter: {id : 02}"  >
                                                                     <td width="20%">{{data.titulo}}</td>
-                                                                    <td width="80%"> {{data.contenido}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido"  > </td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='tree'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 03}"  >
+                                                                    <td width="20%">{{data.titulo}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido" ></td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='four'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 04}"  >
+                                                                    <td width="20%">{{data.titulo}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido" > </td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='five'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 05}">
+                                                                    <td width="20%" >{{data.titulo}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido" > </td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='six'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 06}">
+                                                                    <td width="20%" >{{data.titulo}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido" > </td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='seven'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 07}">
+                                                                    <td width="20%" >{{data.titulo}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido" > </td>
+                                                          </tr>
+                                                </table>
+                                                <table class="tableA1" width="100%"  ng-show="unit1=='eight'">
+                                                          <tr ng-repeat="data in datos | filter: {id : 08}">
+                                                                    <td width="20%" >{{data.titulo}}</td>
+                                                                    <td width="80%" ng-bind-html="data.contenido" > </td>
                                                           </tr>
                                                 </table>
                                         </div>
@@ -282,8 +322,8 @@
                                                 </table>
                                                 <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='two'">
                                                           <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : 02}"  >
-                                                                    <td width="20%">{{dataB1plus.titulo}}</td>
-                                                                    <td width="80%"> {{dataB1plus.contenido}}</td>
+                                                                    <td width="20%"  ng-bind-html-unsafe="html" >{{dataB1plus.titulo}}</td>
+                                                                    <td width="80%"  ng-bind-html-unsafe="html" > {{dataB1plus.contenido}}</td>
                                                           </tr>
                                                 </table>
                                         </div>
