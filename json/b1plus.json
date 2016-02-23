@@ -1,82 +1,482 @@
 [
 	{
 		"id": "01",
-		"titulo" : "Vocabulary b11111111111 plusssssss",
-		"contenido" : "Numbers 1-20 The alphabet Name ID Number Telephone number e-mail."
+		"titulo" : "Vocabulary",
+		"contenido" : "Disaster vocabulary Current events Personally significant events Socially significant events."
 	},
 	{
 		"id": "01",
 		"titulo" : "Structures",
-		"contenido" : "What’s Personal pronoun my."
+		"contenido" : "Time lines and time frames, all tenses in conjunction to relate events. <br> Clauses to express cause and effect."
 	},
 	{
 		"id": "01",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "Greetings Basic small talk Leave-taking Formal / informal language Please / Thank you  What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? What’s your e-mail?"
+		"contenido" : ""
 	},
 	{
 		"id": "01",
 		"titulo" : "Pronunciation",
-		"contenido" : "/aI/ Hi, Bye, I’m fine."
+		"contenido" : ""
 	},
 	{
 		"id": "01",
 		"titulo" : "Listening",
-		"contenido" : "Understand basic greetings and leave-takings, including level of formality.  Understand basic small talk and turn-taking. Understand requests for basic personal information. Understand letters and numbers."
+		"contenido" : "Understand conversations relating important events in people’s lives, in history, and culturally significant events, disasters ."
 	},
 	{
 		"id": "01",
 		"titulo" : "Speaking",
-		"contenido" : "Carry out basic greetings and leave-takings with different levels of formality. Carry out basic small talk and turn-taking. Answer requests for basic personal information. Spell names and give phone numbers, e-mail addresses."
+		"contenido" : "Logically relate and describe important life events, current events, culturally significant events and disasters."
 	},
 	{
 		"id": "01",
 		"titulo" : "Reading",
-		"contenido" : "Understand very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Understand web articles, blog postings, e-mails and short news items on current events, personal events, culturally significant events and disasters."
 	},
 	{
 		"id": "01",
 		"titulo" : "Writing",
-		"contenido" : "Complete very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Describe experiences, relate a personal events, current events, culturally significant events, and disasters in a blog, web forum, e-mail or short news item."
 	},
 	{
 		"id": "02",
-		"titulo" : "Vocabulary A2",
-		"contenido" : "Numbers 1-20 The alphabet Name ID Number Telephone number e-mail."
+		"titulo" : "Vocabulary",
+		"contenido" : "Public figures Sports Scandals Violence Government figures Corruption Topics of personal professional interest."
 	},
 	{
 		"id": "02",
-		"titulo" : "Structures a2",
-		"contenido" : "What’s Personal pronoun my."
+		"titulo" : "Structures",
+		"contenido" : "Reported speech Restrictive and non-restrictive adjective clauses."
 	},
 	{
 		"id": "02",
 		"titulo" : "Expressions / Functions",
-		"contenido" : "Greetings Basic small talk Leave-taking Formal / informal language Please / Thank you  What’s your name? Can you spell that? What’s your ID number? What’s your telephone number? What’s your e-mail?"
+		"contenido" : "Discourse to express opinions mildly or politely."
 	},
 	{
 		"id": "02",
 		"titulo" : "Pronunciation",
-		"contenido" : "/aI/ Hi, Bye, I’m fine."
+		"contenido" : ""
 	},
 	{
 		"id": "02",
 		"titulo" : "Listening",
-		"contenido" : "Understand basic greetings and leave-takings, including level of formality.  Understand basic small talk and turn-taking. Understand requests for basic personal information. Understand letters and numbers."
+		"contenido" : "Understand news reports, talk shows that are spoken in standard English, informal conversations and opinions about current events, celebrities, famous people, scandals."
 	},
 	{
 		"id": "02",
 		"titulo" : "Speaking",
-		"contenido" : "Carry out basic greetings and leave-takings with different levels of formality. Carry out basic small talk and turn-taking. Answer requests for basic personal information. Spell names and give phone numbers, e-mail addresses."
+		"contenido" : "Explain opinions and give reasons in informal conversations regarding public figures, public scandals and current events, topics of personal and professional interest."
 	},
 	{
 		"id": "02",
 		"titulo" : "Reading",
-		"contenido" : "Understand very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Understand short news items, blog posts, web articles or similar about public figures, public scandals and current events."
 	},
 	{
 		"id": "02",
 		"titulo" : "Writing",
-		"contenido" : "Complete very basic forms and registration questionnaires for websites, etc."
+		"contenido" : "Write a short blog post or similar expressing an opinion about a public figure, current event, public scandal or similar."
+	},
+	{
+		"id": "03",
+		"titulo" : "Vocabulary",
+		"contenido" : "Career Money Relationships Future plans World issues."
+	},
+	{
+		"id": "03",
+		"titulo" : "Structures",
+		"contenido" : "Wish and hope. <br> True and untrue conditionals."
+	},
+	{
+		"id": "03",
+		"titulo" : "Expressions / Functions",
+		"contenido" : ""
+	},
+	{
+		"id": "03",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "03",
+		"titulo" : "Listening",
+		"contenido" : "Understand conversations and short monologues about people’s wishes and hopes for their future and their lives in terms of money, career, relationships and world issues."
+	},
+	{
+		"id": "03",
+		"titulo" : "Speaking",
+		"contenido" : "Explain reasons in short monologues or conversations about wishes and hopes for the future."
+	},
+	{
+		"id": "03",
+		"titulo" : "Reading",
+		"contenido" : "Understand e-mails, blog posts and similar about people’s wishes and hopes for their future, careers, relationships or world issues."
+	},
+	{
+		"id": "03",
+		"titulo" : "Writing",
+		"contenido" : "Describe wishes in blogs and web forums, emails."
+	},
+	{
+		"id": "04",
+		"titulo" : "Vocabulary",
+		"contenido" : "Hobbies Selfhelp Diet Health Mysticism Religion Sports Science and nature History Literature Poetry Exercise Animals / pets."
+	},
+	{
+		"id": "04",
+		"titulo" : "Structures",
+		"contenido" : "Definitions Descriptions Reasons for liking or being interested in something."
+	},
+	{
+		"id": "04",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Discourse structure of general description, followed by examples, expository text and discourse."
+	},
+	{
+		"id": "04",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "04",
+		"titulo" : "Listening",
+		"contenido" : "Understand general interest or general specialized TV programs, videos, books, websites, etc. about topics of personal or professional interest."
+	},
+	{
+		"id": "04",
+		"titulo" : "Speaking",
+		"contenido" : "Define, describe or explain topic of personal or professional interest, is main aspects, key areas of interest, examples, phenomena, tenets or facets of the discipline. <br> Explain reasons and opinions for interest in the topic."
+	},
+	{
+		"id": "04",
+		"titulo" : "Reading",
+		"contenido" : "Understand information on general interest or general specialized web-based sites, books, magazines on topics of personal or professional interest."
+	},
+	{
+		"id": "04",
+		"titulo" : "Writing",
+		"contenido" : "Write an entry in a blog or web forum from a website related to your interests."
+	},
+	{
+		"id": "05",
+		"titulo" : "Vocabulary",
+		"contenido" : "Games Games equipment / gear. <br> Recycle sports add more sports, games, individual sports, martial arts, extreme sports, exercise and fitness."
+	},
+	{
+		"id": "05",
+		"titulo" : "Structures",
+		"contenido" : "Imperative review. <br> Simple present review."
+	},
+	{
+		"id": "05",
+		"titulo" : "Expressions / Functions",
+		"contenido" : ""
+	},
+	{
+		"id": "05",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "05",
+		"titulo" : "Listening",
+		"contenido" : "Understand main points of a playby- play sports announcement. <br> Understand conversations about sports events, outcomes. <br> Follow instructions of how to play a game or execute a sports or fitness technique."
+	},
+	{
+		"id": "05",
+		"titulo" : "Speaking",
+		"contenido" : "Explain opinions about different teams, the benefits of different forms of exercise, fitness and sports. <br> Give instructions on how to play a game or execute a sports or fitness technique."
+	},
+	{
+		"id": "05",
+		"titulo" : "Reading",
+		"contenido" : "Understand blog entries, short web articles about sports, exercise and fitness. <br> Understand game instructions that come with a board game."
+	},
+	{
+		"id": "05",
+		"titulo" : "Writing",
+		"contenido" : "Write a short blog entry, web article about sports, sporting events, fitness, exercise. <br> Write simple instructions on how to play a game or execute a sports or fitness technique."
+	},
+	{
+		"id": "06",
+		"titulo" : "Vocabulary",
+		"contenido" : "Familiar matters Work Errands Offices Corporations Schools Organizations Institutions Daily work habits and routines Work environment."
+	},
+	{
+		"id": "06",
+		"titulo" : "Structures",
+		"contenido" : ""
+	},
+	{
+		"id": "06",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Polite discourse formulas for formal, workrelated e-mails."
+	},
+	{
+		"id": "06",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "06",
+		"titulo" : "Listening",
+		"contenido" : "Understand exchanges at work, in meetings, phone conversations dealing with familiar topics encountered at work."
+	},
+	{
+		"id": "06",
+		"titulo" : "Speaking",
+		"contenido" : "Talk about your career and future plans or job-related. <br> Language <br> Explain reasons."
+	},
+	{
+		"id": "06",
+		"titulo" : "Reading",
+		"contenido" : "Memos Letters Emails Office bulletins."
+	},
+	{
+		"id": "06",
+		"titulo" : "Writing",
+		"contenido" : "Write a business email."
+	},
+	{
+		"id": "07",
+		"titulo" : "Vocabulary",
+		"contenido" : "Feelings Ailments Reasons for, causes of feeling good / bad Healthy and unhealthy habits Holistic health and feelings related to illness."
+	},
+	{
+		"id": "07",
+		"titulo" : "Structures",
+		"contenido" : "Untrue conditionals."
+	},
+	{
+		"id": "07",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Discourse for complaining politely, arguing, insisting, reaching agreemen."
+	},
+	{
+		"id": "07",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "07",
+		"titulo" : "Listening",
+		"contenido" : "Understand service encounters where complaints are made, arguments take place, agreements are reached (or not) about products and services."
+	},
+	{
+		"id": "07",
+		"titulo" : "Speaking",
+		"contenido" : "Make a polite complaint or argue about service or products Express opinions reasons."
+	},
+	{
+		"id": "07",
+		"titulo" : "Reading",
+		"contenido" : "Complaint forms Write a letter of complaint."
+	},
+	{
+		"id": "07",
+		"titulo" : "Writing",
+		"contenido" : "Understand blog entries, e-mails or web postings complaining about products or services."
+	},
+	{
+		"id": "08",
+		"titulo" : "Vocabulary",
+		"contenido" : "Personal Service Public Clients Stores Shops Customers Offices Services / agencies."
+	},
+	{
+		"id": "08",
+		"titulo" : "Structures",
+		"contenido" : "Untrue conditionals."
+	},
+	{
+		"id": "08",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Discourse for complaining politely, arguing, insisting, reaching agreemen."
+	},
+	{
+		"id": "08",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "08",
+		"titulo" : "Listening",
+		"contenido" : "Understand service encounters where complaints are made, arguments take place, agreements are reached (or not) about products and services."
+	},
+	{
+		"id": "08",
+		"titulo" : "Speaking",
+		"contenido" : "Make a polite complaint or argue about service or products Express opinions reasons."
+	},
+	{
+		"id": "08",
+		"titulo" : "Reading",
+		"contenido" : "Complaint forms Write a letter of complaint."
+	},
+	{
+		"id": "08",
+		"titulo" : "Writing",
+		"contenido" : "Understand blog entries, e-mails or web postings complaining about products or services."
+	},
+	{
+		"id": "09",
+		"titulo" : "Vocabulary",
+		"contenido" : "Field of expertise Main interests Area of study."
+	},
+	{
+		"id": "09",
+		"titulo" : "Structures",
+		"contenido" : "Noun clauses."
+	},
+	{
+		"id": "09",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Definitions and circumlocution. <br> Discourse for explaining field-specific language and concepts to non-experts."
+	},
+	{
+		"id": "09",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "09",
+		"titulo" : "Listening",
+		"contenido" : "Understand main points of brief lectures or talks on topics of personal or professional interest."
+	},
+	{
+		"id": "09",
+		"titulo" : "Speaking",
+		"contenido" : "Explain important concepts or ideas from topics of personal or professional interest to  nonexperts."
+	},
+	{
+		"id": "09",
+		"titulo" : "Reading",
+		"contenido" : "Understand brief excerpts from textbooks, readers, presentations on topics of personal or professional interest."
+	},
+	{
+		"id": "09",
+		"titulo" : "Writing",
+		"contenido" : "Write a brief essay writing explaining an important idea or concept on a topic of personal or professional interest to  nonexperts."
+	},
+	{
+		"id": "10",
+		"titulo" : "Vocabulary",
+		"contenido" : "Stories about real and imaginary or fictional characters and events. <br> Typical highfrequency fictional characters: witch, wizard, vampire, fairy, warrior, alien, lord, warlord, evil, enchanted."
+	},
+	{
+		"id": "10",
+		"titulo" : "Structures",
+		"contenido" : "Adjectives for stories, including those formed by participle form of the verb (e.g. enchant, enchanted). <br> Shifting time frames for storytelling."
+	},
+	{
+		"id": "10",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Discourse markers for storytelling."
+	},
+	{
+		"id": "10",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "10",
+		"titulo" : "Listening",
+		"contenido" : "Understand real or imaginary short stories with high-frequency vocabulary as well as common story-specific high-frequency vocab for fiction. <br> Understand conversations and opinions about movies and books, react to opinions."
+	},
+	{
+		"id": "10",
+		"titulo" : "Speaking",
+		"contenido" : "Narrate a story Relate the plot of a movie, book and reactions Give opinions, explain reasons."
+	},
+	{
+		"id": "10",
+		"titulo" : "Reading",
+		"contenido" : "Understand short stories and excerpts with high frequency of known vocab, and common story-specific vocabulary."
+	},
+	{
+		"id": "10",
+		"titulo" : "Writing",
+		"contenido" : "Write a very brief short story relating real or fictional events, using discourse markers for storytelling."
+	},
+	{
+		"id": "11",
+		"titulo" : "Vocabulary",
+		"contenido" : "Public transportation Airports Travel agencies Country tours Prices for package deals Accommodations and amenities of resorts and hotels. <br> Everyday problems encountered abroad."
+	},
+	{
+		"id": "11",
+		"titulo" : "Structures",
+		"contenido" : "Review simple present vs. present continuous for time tables, future plans and schedules."
+	},
+	{
+		"id": "11",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Cope with problems of everyday life abroad Ask for help."
+	},
+	{
+		"id": "11",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "11",
+		"titulo" : "Listening",
+		"contenido" : "Understand descriptions of vacation packages and tours. <br>Understand routine encounters at airports, including customs and immigration.<br>Understand exchanges dealing with common problems encountered when travelling."
+	},
+	{
+		"id": "11",
+		"titulo" : "Speaking",
+		"contenido" : "Give reasons for choosing one tour or travel package over another. <br> Answer routine questions at immigration and customs. <br> Describe common problems when travelling abroad and ask for help."
+	},
+	{
+		"id": "11",
+		"titulo" : "Reading",
+		"contenido" : "Understand common signs in English encountered in airports, train stations and hotels. <br> Understand common language found in hotels and resorts. <br> Understand customs declaration and immigration forms."
+	},
+	{
+		"id": "11",
+		"titulo" : "Writing",
+		"contenido" : "Request information via e-mail regarding vacation packages and tours. <br> Write informal and formal e-mails describing problems when travelling, asking for help. <br> Complete customs and immigration forms."
+	},
+	{
+		"id": "12",
+		"titulo" : "Vocabulary",
+		"contenido" : "Conferences Events Congresses and conventions Meetings Business and official travel Group travel Exchange programs."
+	},
+	{
+		"id": "12",
+		"titulo" : "Structures",
+		"contenido" : "Common sentence connectors."
+	},
+	{
+		"id": "12",
+		"titulo" : "Expressions / Functions",
+		"contenido" : "Connecting sentences in written and spoken discourse."
+	},
+	{
+		"id": "12",
+		"titulo" : "Pronunciation",
+		"contenido" : ""
+	},
+	{
+		"id": "12",
+		"titulo" : "Listening",
+		"contenido" : "Understand general presentations and tours on official visits, conferences, conventions and exchange programs."
+	},
+	{
+		"id": "12",
+		"titulo" : "Speaking",
+		"contenido" : "Give conference information, describe  exchange programs or similar. <br> Explain reasons for interest in participating in an official visit or exchange program."
+	},
+	{
+		"id": "12",
+		"titulo" : "Reading",
+		"contenido" : "Understand conference and convention information, brochures and websites on official tours and exchanges or visits, group tours."
+	},
+	{
+		"id": "12",
+		"titulo" : "Writing",
+		"contenido" : "Write an e-mail requesting information about a conference, convention, exchange program or similar."
 	}
 ]

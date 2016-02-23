@@ -444,28 +444,95 @@
                                         <div class="wrapsScopeSel">
                                                 <p>unit</p>
                                                 <select ng-model="unitB1plus">
-                                                        <option value="one"> 1 Sign In</option>
-                                                        <option value="two" >2 My Profile</option>
-                                                        <option value="tree">3 Family and Friends</option>
-                                                        <option value="four">4 My Social Network</option>
-                                                        <option value="five">5 My Community</option>
+                                                        <option value="one">1 Important Events and Disasters</option>
+                                                        <option value="two">2 Current Affairs </option>
+                                                        <option value="tree">3 Wishes and Dreams</option>
+                                                        <option value="four">4 Personal Interest</option>
+                                                        <option value="five">5 Games</option>
+                                                        <option value="six">6 Working world</option>
+                                                        <option value="seven">7 “And how does that make you feel?”</option>
+                                                        <option value="eight">8 Complaints</option>
+                                                        <option value="nine">9 Field of Expertise</option>
+                                                        <option value="ten">10 Stories</option>
+                                                        <option value="eleven">11 International Trave</option>
+                                                        <option value="twelve">12 Visits and Exchanges</option>
                                                 </select>
                                         </div>
 
 
                                         <div class="tableScope" >
-                                                <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='one' ">
-                                                          <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : 01} "  >
-                                                                    <td width="20%">{{dataB1plus.titulo}}</td>
-                                                                    <td width="80%"> {{dataB1plus.contenido}}</td>
-                                                          </tr>
-                                                </table>
-                                                <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='two'">
-                                                          <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : 02}"  >
-                                                                    <td width="20%"  ng-bind-html-unsafe="html" >{{dataB1plus.titulo}}</td>
-                                                                    <td width="80%"  ng-bind-html-unsafe="html" > {{dataB1plus.contenido}}</td>
-                                                          </tr>
-                                                </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='one' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '01'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='two' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '02'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='tree' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '03'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='four' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '04'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='five' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '05'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='six' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '06'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='seven' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '07'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='eight' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '08'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='nine' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '09'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='ten' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '10'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='eleven' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '11'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
+                                            <table class="tableB1plus" width="100%"  ng-show="unitB1plus=='twelve' ">
+                                                <tr ng-repeat="dataB1plus in datosB1plus | filter: {id : '12'} "  >
+                                                    <td width="20%">{{dataB1plus.titulo}}</td>
+                                                    <td width="80%" ng-bind-html="dataB1plus.contenido"></td>
+                                                </tr>
+                                            </table>
                                         </div>
                                 </div>
                                 <!--  ================================== fin show b1  plus ===================================-->
